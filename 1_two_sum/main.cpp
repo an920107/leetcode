@@ -2,30 +2,26 @@
 using namespace std;
 
 class Solution {
-public:
+   public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        unordered_map<int, vector<int>> mp;
+        unordered_multimap<int, int> mp;
         for (int i = 0; i < nums.size(); i++) {
-            if (mp.find(nums[i]) == mp.end()) {
-                mp[nums[i]] = vector<int>();
-            }
-            mp[nums[i]].emplace_back(i);
-        }
-
-        for (auto &[x, y] : mp) {
+            mp.insert({nums[i], i});
         }
 
         sort(nums.begin(), nums.end());
 
-        for (int i = nums.size() - 1; i >= 0; i--) {
-            int x = nums[i];
-            int need = target - x;
-
-            if (binary_search(nums.begin(), nums.begin() + i, need)) {
-                if (x == need) {
-                    return {mp[x][0], mp[need][1]};
+        int l = 0, r = nums.size() - 1;
+        while (l < r) {
+            if (nums[l] + nums[r] < target) {
+                l++;
+            } else if (nums[l] + nums[r] > target) {
+                r--;
+            } else {
+                if (nums[l] == nums[r]) {
+                    return {mp.find(nums[l])->second, (++mp.find(nums[r]))->second};
                 }
-                return {mp[x][0], mp[need][0]};
+                return {mp.find(nums[l])->second, mp.find(nums[r])->second};
             }
         }
 
