@@ -7,7 +7,7 @@ class Solution {
         if (x == 0) return 0;
         if (n == 0) return 1;
 
-        bool isNeg = n < 0;
+        bool isExpNeg = n < 0;
         n = abs(n);
 
         int logn = (int)log2(n);
@@ -24,7 +24,7 @@ class Solution {
             n >>= 1;
         }
 
-        if (isNeg) result = 1.0 / result;
+        if (isExpNeg) result = 1.0 / result;
 
         return result;
     }
@@ -44,9 +44,9 @@ class Solution {
 
 x^10
 
-x^8 1
-x^4 0
-x^2 1
-x^1 0
+x^8 x^(2^3) 1
+x^4 x^(2^2) 0
+x^2 x^(2^1) 1
+x^1 x^(2^0) 0
 
 */
