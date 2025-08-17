@@ -1,3 +1,5 @@
+use std::ops::Deref;
+
 fn main() {
     println!("Hello, world!");
 }
@@ -22,9 +24,9 @@ impl Solution {
         let mut arr: Vec<i32> = vec![];
         let mut current_node = head;
 
-        while current_node != None {
-            arr.push(current_node.as_ref().unwrap().val);
-            current_node = current_node.unwrap().next;
+        while let Some(node) = current_node.take() {
+            arr.push(node.val);
+            current_node = node.next;
         }
 
         if arr.is_empty() {
@@ -40,5 +42,21 @@ impl Solution {
         }
 
         head
+    }
+
+    pub fn reverse_list_2(mut head: Option<Box<ListNode>>) -> Option<Box<ListNode>> {
+        if head.is_none() {
+            return None;
+        }
+        let mut p: Option<Box<ListNode>> = None;
+
+        while let Some(mut node) = head.take() {
+            let next = node.next;
+            node.next = p;
+            p = Some(node);
+            head = next;
+        }
+
+        p
     }
 }
