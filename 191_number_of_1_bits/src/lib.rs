@@ -1,8 +1,4 @@
-fn main() {
-    println!("Hello, world!");
-}
-
-struct Solution;
+pub struct Solution;
 
 impl Solution {
     pub fn hamming_weight(mut n: i32) -> i32 {

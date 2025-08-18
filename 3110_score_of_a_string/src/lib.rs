@@ -1,8 +1,4 @@
-fn main() {
-    println!("{}", Solution::score_of_string("hello".to_string()));
-}
-
-struct Solution;
+pub struct Solution;
 
 impl Solution {
     pub fn score_of_string(s: String) -> i32 {

@@ -1,10 +1,6 @@
 use std::collections::HashSet;
 
-fn main() {
-    println!("Hello, world!");
-}
-
-struct Solution;
+pub struct Solution;
 
 impl Solution {
     pub fn is_happy(mut n: i32) -> bool {

@@ -1,8 +1,4 @@
-fn main() {
-    println!("Hello, world!");
-}
-
-struct Solution;
+pub struct Solution;
 
 impl Solution {
     pub fn min_path_sum(mut grid: Vec<Vec<i32>>) -> i32 {

@@ -1,20 +1,9 @@
-fn main() {
-    println!("{}", Solution::gcd(10, 25));
-}
-
-struct Solution;
+pub struct Solution;
 
 #[derive(PartialEq, Eq, Clone, Debug)]
 pub struct ListNode {
     pub val: i32,
     pub next: Option<Box<ListNode>>,
-}
-
-impl ListNode {
-    #[inline]
-    fn new(val: i32) -> Self {
-        ListNode { next: None, val }
-    }
 }
 
 impl Solution {

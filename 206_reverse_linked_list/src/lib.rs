@@ -1,9 +1,3 @@
-use std::ops::Deref;
-
-fn main() {
-    println!("Hello, world!");
-}
-
 #[derive(PartialEq, Eq, Clone, Debug)]
 pub struct ListNode {
     pub val: i32,
@@ -17,7 +11,7 @@ impl ListNode {
     }
 }
 
-struct Solution;
+pub struct Solution;
 
 impl Solution {
     pub fn reverse_list(head: Option<Box<ListNode>>) -> Option<Box<ListNode>> {

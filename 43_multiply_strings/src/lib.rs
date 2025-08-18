@@ -1,12 +1,6 @@
 use std::cmp;
 
-fn main() {
-    let x = "000".to_string();
-    let y = "0".to_string();
-    println!("{}", Solution::plus(x, y));
-}
-
-struct Solution;
+pub struct Solution;
 
 impl Solution {
     pub fn multiply(x: String, y: String) -> String {

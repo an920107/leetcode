@@ -1,11 +1,4 @@
-fn main() {
-    println!(
-        "{}",
-        Solution::unique_paths_iii(vec![vec![1, 0, 0, 0], vec![0, 0, 0, 0], vec![0, 0, 2, -1]])
-    );
-}
-
-struct Solution;
+pub struct Solution;
 
 impl Solution {
     pub fn unique_paths_iii(grid: Vec<Vec<i32>>) -> i32 {

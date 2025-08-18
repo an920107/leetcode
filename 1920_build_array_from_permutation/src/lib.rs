@@ -1,8 +1,4 @@
-fn main() {
-    println!("Hello, world!");
-}
-
-struct Solution;
+pub struct Solution;
 
 impl Solution {
     pub fn build_array(nums: Vec<i32>) -> Vec<i32> {

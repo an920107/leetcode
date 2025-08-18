@@ -1,8 +1,4 @@
-fn main() {
-    println!("Hello, world!");
-}
-
-struct Solution;
+pub struct Solution;
 
 impl Solution {
     pub fn is_power_of_four(mut n: i32) -> bool {
