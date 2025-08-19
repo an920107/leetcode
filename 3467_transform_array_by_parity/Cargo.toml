@@ -1,0 +1,6 @@
+[package]
+name = "transform_array_by_parity"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
