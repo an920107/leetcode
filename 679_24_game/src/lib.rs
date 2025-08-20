@@ -22,31 +22,9 @@ impl Solution {
                     left_cards.remove(j);
                     left_cards.remove(i);
 
-                    let mut new_cards = left_cards.clone();
-                    new_cards.push(a + b);
-                    stack.push(new_cards);
-
-                    let mut new_cards = left_cards.clone();
-                    new_cards.push(a * b);
-                    stack.push(new_cards);
-
-                    let mut new_cards = left_cards.clone();
-                    new_cards.push(a - b);
-                    stack.push(new_cards);
-
-                    let mut new_cards = left_cards.clone();
-                    new_cards.push(b - a);
-                    stack.push(new_cards);
-
-                    if b.abs() > 1e-6 {
+                    for v in [a + b, a * b, a - b, b - a, a / b, b / a] {
                         let mut new_cards = left_cards.clone();
-                        new_cards.push(a / b);
-                        stack.push(new_cards);
-                    }
-
-                    if a.abs() > 1e-6 {
-                        let mut new_cards = left_cards.clone();
-                        new_cards.push(b / a);
+                        new_cards.push(v);
                         stack.push(new_cards);
                     }
                 }
