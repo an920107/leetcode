@@ -1,0 +1,6 @@
+[package]
+name = "largest_number_at_least_twice_of_others"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
