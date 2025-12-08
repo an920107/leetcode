@@ -1,0 +1,6 @@
+[package]
+name = "check_if_bitwise_or_has_trailing_zeros"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
