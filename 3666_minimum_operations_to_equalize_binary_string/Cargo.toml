@@ -1,0 +1,6 @@
+[package]
+name = "minimum_operations_to_equalize_binary_string"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
