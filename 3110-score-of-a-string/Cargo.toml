@@ -1,0 +1,6 @@
+[package]
+name = "score_of_a_string"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

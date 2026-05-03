@@ -1,6 +1,0 @@
-[package]
-name = "construct_product_matrix"
-version = "0.1.0"
-edition = "2024"
-
-[dependencies]

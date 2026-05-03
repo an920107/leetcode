@@ -1,0 +1,6 @@
+[package]
+name = "seperate_squares_1"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

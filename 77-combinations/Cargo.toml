@@ -1,0 +1,6 @@
+[package]
+name = "combinations"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

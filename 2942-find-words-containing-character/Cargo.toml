@@ -1,0 +1,6 @@
+[package]
+name = "find_words_containing_character"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

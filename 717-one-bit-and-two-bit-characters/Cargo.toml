@@ -1,0 +1,6 @@
+[package]
+name = "one_bit_and_two_bit_characters"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

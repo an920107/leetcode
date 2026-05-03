@@ -1,0 +1,6 @@
+[package]
+name = "count_special_triplets"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

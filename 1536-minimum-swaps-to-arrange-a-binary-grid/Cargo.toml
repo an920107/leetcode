@@ -1,0 +1,6 @@
+[package]
+name = "minimum_swaps_to_arrange_a_binary_grid"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

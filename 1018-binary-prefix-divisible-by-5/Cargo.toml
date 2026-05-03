@@ -1,0 +1,6 @@
+[package]
+name = "binary_prefix_divisible_by_5"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

@@ -1,0 +1,6 @@
+[package]
+name = "minimum_number_of_operations_to_move_all_balls_to_each_box"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

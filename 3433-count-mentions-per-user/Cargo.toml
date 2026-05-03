@@ -1,0 +1,6 @@
+[package]
+name = "count_mentions_per_user"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

@@ -1,0 +1,6 @@
+[package]
+name = "maximum_amount_of_money_robot_can_earn"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

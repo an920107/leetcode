@@ -1,0 +1,6 @@
+[package]
+name = "special_binary_string"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

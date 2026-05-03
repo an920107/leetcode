@@ -1,0 +1,6 @@
+[package]
+name = "minimize_string_length"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

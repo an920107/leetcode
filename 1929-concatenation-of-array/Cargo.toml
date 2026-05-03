@@ -1,0 +1,6 @@
+[package]
+name = "concatenation_of_array"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

@@ -1,0 +1,6 @@
+[package]
+name = "decode_the_slanted_ciphertext"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

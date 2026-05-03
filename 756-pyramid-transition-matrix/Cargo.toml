@@ -1,0 +1,6 @@
+[package]
+name = "pyramid_transition_matrix"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

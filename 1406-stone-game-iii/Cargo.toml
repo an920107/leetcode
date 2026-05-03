@@ -1,0 +1,6 @@
+[package]
+name = "stone_game_iii"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

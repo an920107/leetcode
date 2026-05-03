@@ -1,0 +1,6 @@
+[package]
+name = "count_the_number_of_consistent_strings"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

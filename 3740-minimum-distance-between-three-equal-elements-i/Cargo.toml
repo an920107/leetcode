@@ -1,0 +1,6 @@
+[package]
+name = "minimum_distance_between_three_equal_elements_i"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

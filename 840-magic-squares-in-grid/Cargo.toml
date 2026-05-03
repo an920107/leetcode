@@ -1,0 +1,6 @@
+[package]
+name = "magic_squares_in_grid"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

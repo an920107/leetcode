@@ -1,0 +1,6 @@
+[package]
+name = "trionic_array_ii"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

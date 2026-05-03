@@ -1,0 +1,6 @@
+[package]
+name = "convert_date_to_binary"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

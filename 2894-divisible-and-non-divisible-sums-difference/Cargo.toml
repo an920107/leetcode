@@ -1,0 +1,6 @@
+[package]
+name = "divisible_and_non_divisible_sums_difference"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

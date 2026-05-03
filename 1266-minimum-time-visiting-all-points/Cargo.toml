@@ -1,0 +1,6 @@
+[package]
+name = "minimum_time_visiting_all_points"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

@@ -1,6 +1,0 @@
-[package]
-name = "walking_robot_simulation_ii"
-version = "0.1.0"
-edition = "2024"
-
-[dependencies]

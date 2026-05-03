@@ -1,6 +1,0 @@
-[package]
-name = "get_biggest_three_rhombus_sums_in_a_grid"
-version = "0.1.0"
-edition = "2024"
-
-[dependencies]

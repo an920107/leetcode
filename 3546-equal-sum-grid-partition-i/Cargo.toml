@@ -1,0 +1,6 @@
+[package]
+name = "equal_sum_grid_partition_i"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

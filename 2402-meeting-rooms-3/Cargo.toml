@@ -1,0 +1,6 @@
+[package]
+name = "meeting_rooms_3"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

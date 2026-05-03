@@ -1,0 +1,6 @@
+[package]
+name = "design_hashset"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

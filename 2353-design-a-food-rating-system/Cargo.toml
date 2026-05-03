@@ -1,0 +1,6 @@
+[package]
+name = "design_a_food_rating_system"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

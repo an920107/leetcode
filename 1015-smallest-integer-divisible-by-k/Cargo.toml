@@ -1,0 +1,6 @@
+[package]
+name = "smallest_integer_divisible_by_k"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

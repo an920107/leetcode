@@ -1,0 +1,6 @@
+[package]
+name = "special_positions_in_a_binary_matrix"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

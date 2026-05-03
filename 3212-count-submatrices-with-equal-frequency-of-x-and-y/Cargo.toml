@@ -1,0 +1,6 @@
+[package]
+name = "count_submatrices_with_equal_frequency_of_x_and_y"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

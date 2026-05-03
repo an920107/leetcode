@@ -1,0 +1,6 @@
+[package]
+name = "delete_columns_to_make_sorted_2"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

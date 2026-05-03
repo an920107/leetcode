@@ -1,0 +1,6 @@
+[package]
+name = "divide_an_array_into_subarrays_with_minimum_cost_i"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

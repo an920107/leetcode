@@ -1,0 +1,6 @@
+[package]
+name = "minimum_removals_to_balance_array"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

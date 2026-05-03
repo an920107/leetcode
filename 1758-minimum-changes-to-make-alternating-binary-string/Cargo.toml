@@ -1,0 +1,6 @@
+[package]
+name = "minimum_changes_to_make_alternating_binary_string"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

@@ -1,0 +1,6 @@
+[package]
+name = "balanced_binary_tree"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

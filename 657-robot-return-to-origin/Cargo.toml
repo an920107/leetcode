@@ -1,0 +1,6 @@
+[package]
+name = "robot_return_to_origin"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

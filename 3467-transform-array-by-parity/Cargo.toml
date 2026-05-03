@@ -1,0 +1,6 @@
+[package]
+name = "transform_array_by_parity"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

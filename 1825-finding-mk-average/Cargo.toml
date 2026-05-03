@@ -1,0 +1,6 @@
+[package]
+name = "finding_mk_average"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

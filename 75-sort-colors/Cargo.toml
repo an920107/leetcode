@@ -1,0 +1,6 @@
+[package]
+name = "sort_colors"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

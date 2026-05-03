@@ -1,0 +1,6 @@
+[package]
+name = "edit_distance"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

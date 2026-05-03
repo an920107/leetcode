@@ -1,0 +1,6 @@
+[package]
+name = "jewels_and_stones"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

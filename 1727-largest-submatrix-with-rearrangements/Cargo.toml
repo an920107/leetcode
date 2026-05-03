@@ -1,0 +1,6 @@
+[package]
+name = "largest_submatrix_with_rearrangements"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

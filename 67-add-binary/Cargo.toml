@@ -1,0 +1,6 @@
+[package]
+name = "add_binary"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

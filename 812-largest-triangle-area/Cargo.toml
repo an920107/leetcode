@@ -1,0 +1,6 @@
+[package]
+name = "largest_triangle_area"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

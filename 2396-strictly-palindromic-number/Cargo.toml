@@ -1,0 +1,6 @@
+[package]
+name = "strictly_palindromic_number"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

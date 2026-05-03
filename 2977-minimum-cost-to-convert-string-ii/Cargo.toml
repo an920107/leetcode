@@ -1,0 +1,7 @@
+[package]
+name = "minimum_cost_to_convert_string_ii"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+itertools.workspace = true

@@ -1,0 +1,6 @@
+[package]
+name = "longer_contiguous_segments_of_ones_than_zeros"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

@@ -1,0 +1,6 @@
+[package]
+name = "number_of_ways_to_paint_n_3_grid"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

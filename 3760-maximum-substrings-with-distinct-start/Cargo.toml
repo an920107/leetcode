@@ -1,0 +1,6 @@
+[package]
+name = "maximum_substrings_with_distinct_start"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

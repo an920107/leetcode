@@ -1,0 +1,6 @@
+[package]
+name = "find_the_maximum_achievable_number"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

@@ -1,0 +1,6 @@
+[package]
+name = "subsets"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

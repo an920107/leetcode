@@ -1,0 +1,6 @@
+[package]
+name = "design_task_manager"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

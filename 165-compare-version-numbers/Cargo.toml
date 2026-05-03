@@ -1,0 +1,6 @@
+[package]
+name = "compare_version_numbers"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

@@ -1,0 +1,6 @@
+[package]
+name = "champagne_tower"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

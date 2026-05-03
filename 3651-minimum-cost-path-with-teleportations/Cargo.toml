@@ -1,0 +1,6 @@
+[package]
+name = "minimum_cost_path_with_teleportations"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

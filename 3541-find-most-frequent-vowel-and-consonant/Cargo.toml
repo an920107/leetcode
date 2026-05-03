@@ -1,0 +1,6 @@
+[package]
+name = "find_most_frequent_vowel_and_consonant"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

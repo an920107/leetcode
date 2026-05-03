@@ -1,0 +1,6 @@
+[package]
+name = "largest_number_at_least_twice_of_others"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

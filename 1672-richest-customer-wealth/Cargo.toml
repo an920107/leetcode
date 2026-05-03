@@ -1,0 +1,6 @@
+[package]
+name = "richest_customer_wealth"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

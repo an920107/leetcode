@@ -1,0 +1,6 @@
+[package]
+name = "design_hashmap"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

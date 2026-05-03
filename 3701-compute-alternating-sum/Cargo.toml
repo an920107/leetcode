@@ -1,0 +1,6 @@
+[package]
+name = "compute_alternating_sum"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

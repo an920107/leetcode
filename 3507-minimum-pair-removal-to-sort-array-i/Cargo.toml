@@ -1,0 +1,6 @@
+[package]
+name = "minimum_pair_removal_to_sort_array_i"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

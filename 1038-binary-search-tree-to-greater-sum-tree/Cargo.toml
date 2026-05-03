@@ -1,0 +1,6 @@
+[package]
+name = "binary_search_tree_to_greater_sum_tree"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

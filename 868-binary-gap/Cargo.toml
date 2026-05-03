@@ -1,0 +1,6 @@
+[package]
+name = "binary_gap"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

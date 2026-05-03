@@ -1,0 +1,6 @@
+[package]
+name = "max_consecutive_ones"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

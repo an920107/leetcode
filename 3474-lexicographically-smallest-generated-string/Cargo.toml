@@ -1,0 +1,6 @@
+[package]
+name = "lexicographically_smallest_generated_string"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

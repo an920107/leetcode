@@ -1,0 +1,6 @@
+[package]
+name = "maximum_running_time_of_n_computers"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

@@ -1,0 +1,6 @@
+[package]
+name = "maximize_happiness_of_selected_children"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

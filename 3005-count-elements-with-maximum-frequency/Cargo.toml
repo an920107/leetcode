@@ -1,0 +1,6 @@
+[package]
+name = "count_elements_with_maximum_frequency"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

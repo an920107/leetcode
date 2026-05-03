@@ -1,0 +1,6 @@
+[package]
+name = "maximum_walls_destroyed_by_robots"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

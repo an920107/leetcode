@@ -1,0 +1,6 @@
+[package]
+name = "transformed_array"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

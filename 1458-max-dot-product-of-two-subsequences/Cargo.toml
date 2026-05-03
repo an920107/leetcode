@@ -1,0 +1,6 @@
+[package]
+name = "max_dot_product_of_two_subsequences"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

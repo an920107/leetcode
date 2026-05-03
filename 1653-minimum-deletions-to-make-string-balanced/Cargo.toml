@@ -1,0 +1,6 @@
+[package]
+name = "minimum_deletions_to_make_string_balanced"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

@@ -1,0 +1,6 @@
+[package]
+name = "coupon_code_validator"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

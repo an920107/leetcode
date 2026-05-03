@@ -1,0 +1,6 @@
+[package]
+name = "twenty_four_game"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

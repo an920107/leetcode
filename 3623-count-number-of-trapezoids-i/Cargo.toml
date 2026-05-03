@@ -1,0 +1,6 @@
+[package]
+name = "count_number_of_trapezoids_i"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

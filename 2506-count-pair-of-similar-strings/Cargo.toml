@@ -1,0 +1,6 @@
+[package]
+name = "count_pair_of_similar_strings"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

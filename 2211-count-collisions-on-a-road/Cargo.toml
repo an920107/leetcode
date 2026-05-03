@@ -1,0 +1,6 @@
+[package]
+name = "count_collisions_on_a_road"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

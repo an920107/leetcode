@@ -1,0 +1,6 @@
+[package]
+name = "design_a_number_container_system"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

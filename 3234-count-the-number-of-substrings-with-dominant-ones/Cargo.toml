@@ -1,0 +1,6 @@
+[package]
+name = "count_the_number_of_substrings_with_dominant_ones"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

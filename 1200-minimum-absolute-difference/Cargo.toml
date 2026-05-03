@@ -1,0 +1,6 @@
+[package]
+name = "minimum_absolute_difference"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

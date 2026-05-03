@@ -1,0 +1,6 @@
+[package]
+name = "xor_after_range_multiplication_queries_ii"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

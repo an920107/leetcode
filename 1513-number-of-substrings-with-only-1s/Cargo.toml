@@ -1,0 +1,6 @@
+[package]
+name = "number_of_substrings_with_only_1s"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

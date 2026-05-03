@@ -1,0 +1,6 @@
+[package]
+name = "seat_reservation_manager"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

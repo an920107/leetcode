@@ -1,6 +1,0 @@
-[package]
-name = "find_the_string_with_lcp"
-version = "0.1.0"
-edition = "2024"
-
-[dependencies]

@@ -1,0 +1,6 @@
+[package]
+name = "count_square_sum_triples"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
