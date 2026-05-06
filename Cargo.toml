@@ -24,6 +24,7 @@ members = [
   "120-triangle",
   "165-compare-version-numbers",
   "166-fraction-to-recurring-decimal",
+  "189-rotate-array",
   "190-reverse-bits",
   "191-number-of-1-bits",
   "202-happy-number",
