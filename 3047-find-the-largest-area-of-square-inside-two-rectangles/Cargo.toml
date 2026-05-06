@@ -1,5 +1,5 @@
 [package]
-name = "find_the_largest_area_of_square_inside_two_rectangles"
+name = "p3047-find-the-largest-area-of-square-inside-two-rectangles"
 version.workspace = true
 edition.workspace = true
 

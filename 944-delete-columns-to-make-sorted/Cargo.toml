@@ -1,5 +1,5 @@
 [package]
-name = "delete_columns_to_make_sorted"
+name = "p944-delete-columns-to-make-sorted"
 version.workspace = true
 edition.workspace = true
 

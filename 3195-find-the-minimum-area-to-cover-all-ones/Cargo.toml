@@ -1,5 +1,5 @@
 [package]
-name = "find_the_minimum_area_to_cover_all_ones"
+name = "p3195-find-the-minimum-area-to-cover-all-ones"
 version.workspace = true
 edition.workspace = true
 

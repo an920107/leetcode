@@ -1,5 +1,5 @@
 [package]
-name = "seperate_squares_1"
+name = "p3453-seperate-squares-1"
 version.workspace = true
 edition.workspace = true
 

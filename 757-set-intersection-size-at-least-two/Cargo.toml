@@ -1,5 +1,5 @@
 [package]
-name = "set_intersection_size_at_least_two"
+name = "p757-set-intersection-size-at-least-two"
 version.workspace = true
 edition.workspace = true
 

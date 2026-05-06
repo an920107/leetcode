@@ -1,5 +1,5 @@
 [package]
-name = "maximum-path-score-in-a-grid"
+name = "p3742-maximum-path-score-in-a-grid"
 version.workspace = true
 edition.workspace = true
 

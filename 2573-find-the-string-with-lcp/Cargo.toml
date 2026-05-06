@@ -1,5 +1,5 @@
 [package]
-name = "find_the_string_with_lcp"
+name = "p2573-find-the-string-with-lcp"
 version.workspace = true
 edition.workspace = true
 

@@ -1,5 +1,5 @@
 [package]
-name = "minimum_penalty_for_a_shop"
+name = "p2483-minimum-penalty-for-a-shop"
 version.workspace = true
 edition.workspace = true
 

@@ -1,5 +1,5 @@
 [package]
-name = "keep_multiplying_found_values_by_two"
+name = "p2154-keep-multiplying-found-values-by-two"
 version.workspace = true
 edition.workspace = true
 

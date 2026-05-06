@@ -1,5 +1,5 @@
 [package]
-name = "four_divisors"
+name = "p1390-four-divisors"
 version.workspace = true
 edition.workspace = true
 

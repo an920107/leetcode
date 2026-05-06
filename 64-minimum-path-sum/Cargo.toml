@@ -1,5 +1,5 @@
 [package]
-name = "minimum_path_sum"
+name = "p64-minimum-path-sum"
 version.workspace = true
 edition.workspace = true
 

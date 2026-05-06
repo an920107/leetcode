@@ -1,5 +1,5 @@
 [package]
-name = "apple_redistribution_into_boxes"
+name = "p3074-apple-redistribution-into-boxes"
 version.workspace = true
 edition.workspace = true
 

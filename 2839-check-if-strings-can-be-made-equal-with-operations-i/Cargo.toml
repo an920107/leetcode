@@ -1,5 +1,5 @@
 [package]
-name = "check_if_strings_can_be_made_equal_with_operations_i"
+name = "p2839-check-if-strings-can-be-made-equal-with-operations-i"
 version.workspace = true
 edition.workspace = true
 

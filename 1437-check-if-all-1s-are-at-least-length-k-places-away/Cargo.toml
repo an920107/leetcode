@@ -1,5 +1,5 @@
 [package]
-name = "check_if_all_1s_are_at_least_length_k_places_away"
+name = "p1437-check-if-all-1s-are-at-least-length-k-places-away"
 version.workspace = true
 edition.workspace = true
 

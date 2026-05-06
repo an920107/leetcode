@@ -1,5 +1,5 @@
 [package]
-name = "implement_rand10_using_rand7"
+name = "p470-implement-rand10-using-rand7"
 version.workspace = true
 edition.workspace = true
 

@@ -1,5 +1,5 @@
 [package]
-name = "number_of_ways_to_divide_a_long_corridor"
+name = "p2147-number-of-ways-to-divide-a-long-corridor"
 version.workspace = true
 edition.workspace = true
 

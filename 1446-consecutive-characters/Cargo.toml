@@ -1,5 +1,5 @@
 [package]
-name = "consecutive_characters"
+name = "p1446-consecutive-characters"
 version.workspace = true
 edition.workspace = true
 

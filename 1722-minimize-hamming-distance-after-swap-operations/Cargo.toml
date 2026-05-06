@@ -1,5 +1,5 @@
 [package]
-name = "minimize-hamming-distance-after-swap-operations"
+name = "p1722-minimize-hamming-distance-after-swap-operations"
 version.workspace = true
 edition.workspace = true
 

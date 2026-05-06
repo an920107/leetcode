@@ -1,5 +1,5 @@
 [package]
-name = "generate_random_point_in_a_circle"
+name = "p478-generate-random-point-in-a-circle"
 version.workspace = true
 edition.workspace = true
 

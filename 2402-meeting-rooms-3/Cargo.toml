@@ -1,5 +1,5 @@
 [package]
-name = "meeting_rooms_3"
+name = "p2402-meeting-rooms-3"
 version.workspace = true
 edition.workspace = true
 

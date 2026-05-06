@@ -1,5 +1,5 @@
 [package]
-name = "find_the_maximum_divisibility_score"
+name = "p2644-find-the-maximum-divisibility-score"
 version.workspace = true
 edition.workspace = true
 

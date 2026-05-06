@@ -1,5 +1,5 @@
 [package]
-name = "find_minimum_operations_to_make_all_elements_divisible_by_three"
+name = "p3190-find-minimum-operations-to-make-all-elements-divisible-by-three"
 version.workspace = true
 edition.workspace = true
 

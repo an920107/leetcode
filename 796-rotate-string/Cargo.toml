@@ -1,5 +1,5 @@
 [package]
-name = "rotate-string"
+name = "p796-rotate-string"
 version.workspace = true
 edition.workspace = true
 

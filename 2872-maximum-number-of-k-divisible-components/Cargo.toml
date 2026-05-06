@@ -1,5 +1,5 @@
 [package]
-name = "maximum_number_of_k_divisible_components"
+name = "p2872-maximum-number-of-k-divisible-components"
 version.workspace = true
 edition.workspace = true
 

@@ -1,5 +1,5 @@
 [package]
-name = "power_of_four"
+name = "p342-power-of-four"
 version.workspace = true
 edition.workspace = true
 

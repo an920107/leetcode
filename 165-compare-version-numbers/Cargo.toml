@@ -1,5 +1,5 @@
 [package]
-name = "compare_version_numbers"
+name = "p165-compare-version-numbers"
 version.workspace = true
 edition.workspace = true
 

@@ -1,5 +1,5 @@
 [package]
-name = "count_the_number_of_computer_unlocking_permutations"
+name = "p3577-count-the-number-of-computer-unlocking-permutations"
 version.workspace = true
 edition.workspace = true
 

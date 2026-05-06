@@ -1,5 +1,5 @@
 [package]
-name = "design_spread_sheet"
+name = "p3484-design-spread-sheet"
 version.workspace = true
 edition.workspace = true
 

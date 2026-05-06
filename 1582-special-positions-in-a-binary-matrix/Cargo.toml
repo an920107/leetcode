@@ -1,5 +1,5 @@
 [package]
-name = "special_positions_in_a_binary_matrix"
+name = "p1582-special-positions-in-a-binary-matrix"
 version.workspace = true
 edition.workspace = true
 

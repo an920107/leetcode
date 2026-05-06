@@ -1,5 +1,5 @@
 [package]
-name = "plus_one"
+name = "p66-plus-one"
 version.workspace = true
 edition.workspace = true
 

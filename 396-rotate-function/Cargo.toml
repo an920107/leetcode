@@ -1,5 +1,5 @@
 [package]
-name = "rotate-function"
+name = "p396-rotate-function"
 version.workspace = true
 edition.workspace = true
 

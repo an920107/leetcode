@@ -1,5 +1,5 @@
 [package]
-name = "minimum_pair_removal_to_sort_array_i"
+name = "p3507-minimum-pair-removal-to-sort-array-i"
 version.workspace = true
 edition.workspace = true
 

@@ -1,5 +1,5 @@
 [package]
-name = "partitioning_into_minimum_number_of_deci_binary_numbers"
+name = "p1689-partitioning-into-minimum-number-of-deci-binary-numbers"
 version.workspace = true
 edition.workspace = true
 

@@ -1,5 +1,5 @@
 [package]
-name = "find_most_frequent_vowel_and_consonant"
+name = "p3541-find-most-frequent-vowel-and-consonant"
 version.workspace = true
 edition.workspace = true
 

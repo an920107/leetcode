@@ -1,5 +1,5 @@
 [package]
-name = "longest_balanced_subarray_i"
+name = "p3719-longest-balanced-subarray-i"
 version.workspace = true
 edition.workspace = true
 

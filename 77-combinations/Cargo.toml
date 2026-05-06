@@ -1,5 +1,5 @@
 [package]
-name = "combinations"
+name = "p77-combinations"
 version.workspace = true
 edition.workspace = true
 

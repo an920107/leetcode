@@ -1,5 +1,5 @@
 [package]
-name = "maximum-distance-between-a-pair-of-values"
+name = "p1855-maximum-distance-between-a-pair-of-values"
 version.workspace = true
 edition.workspace = true
 

@@ -1,5 +1,5 @@
 [package]
-name = "happy_number"
+name = "p202-happy-number"
 version.workspace = true
 edition.workspace = true
 

@@ -1,5 +1,5 @@
 [package]
-name = "count_submatrices_with_top_left_element_and_sum_less_than_k"
+name = "p3070-count-submatrices-with-top-left-element-and-sum-less-than-k"
 version.workspace = true
 edition.workspace = true
 

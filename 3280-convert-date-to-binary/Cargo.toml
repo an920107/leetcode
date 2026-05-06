@@ -1,5 +1,5 @@
 [package]
-name = "convert_date_to_binary"
+name = "p3280-convert-date-to-binary"
 version.workspace = true
 edition.workspace = true
 

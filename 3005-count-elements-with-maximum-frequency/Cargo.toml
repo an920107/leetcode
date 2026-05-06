@@ -1,5 +1,5 @@
 [package]
-name = "count_elements_with_maximum_frequency"
+name = "p3005-count-elements-with-maximum-frequency"
 version.workspace = true
 edition.workspace = true
 

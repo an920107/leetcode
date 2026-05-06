@@ -1,5 +1,5 @@
 [package]
-name = "maximum_amount_of_money_robot_can_earn"
+name = "p3418-maximum-amount-of-money-robot-can-earn"
 version.workspace = true
 edition.workspace = true
 

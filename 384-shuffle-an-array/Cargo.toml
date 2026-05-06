@@ -1,5 +1,5 @@
 [package]
-name = "shuffle_an_array"
+name = "p384-shuffle-an-array"
 version.workspace = true
 edition.workspace = true
 

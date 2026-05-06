@@ -1,5 +1,5 @@
 [package]
-name = "mirror-distance-of-an-integer"
+name = "p3783-mirror-distance-of-an-integer"
 version.workspace = true
 edition.workspace = true
 

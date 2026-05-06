@@ -1,5 +1,5 @@
 [package]
-name = "minimum_distance_to_type_a_word_using_two_fingers"
+name = "p1320-minimum-distance-to-type-a-word-using-two-fingers"
 version.workspace = true
 edition.workspace = true
 

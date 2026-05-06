@@ -1,5 +1,5 @@
 [package]
-name = "check_if_bitwise_or_has_trailing_zeros"
+name = "p2980-check-if-bitwise-or-has-trailing-zeros"
 version.workspace = true
 edition.workspace = true
 

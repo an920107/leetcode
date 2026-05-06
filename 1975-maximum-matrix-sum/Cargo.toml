@@ -1,5 +1,5 @@
 [package]
-name = "maximum_matrix_sum"
+name = "p1975-maximum-matrix-sum"
 version.workspace = true
 edition.workspace = true
 

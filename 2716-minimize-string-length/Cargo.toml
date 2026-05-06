@@ -1,5 +1,5 @@
 [package]
-name = "minimize_string_length"
+name = "p2716-minimize-string-length"
 version.workspace = true
 edition.workspace = true
 

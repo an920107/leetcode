@@ -1,5 +1,5 @@
 [package]
-name = "magic_squares_in_grid"
+name = "p840-magic-squares-in-grid"
 version.workspace = true
 edition.workspace = true
 

@@ -1,5 +1,5 @@
 [package]
-name = "maximum_69_number"
+name = "p1323-maximum-69-number"
 version.workspace = true
 edition.workspace = true
 

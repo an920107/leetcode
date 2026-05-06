@@ -1,5 +1,5 @@
 [package]
-name = "equal_sum_grid_partition_i"
+name = "p3546-equal-sum-grid-partition-i"
 version.workspace = true
 edition.workspace = true
 

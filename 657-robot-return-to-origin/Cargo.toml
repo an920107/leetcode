@@ -1,5 +1,5 @@
 [package]
-name = "robot_return_to_origin"
+name = "p657-robot-return-to-origin"
 version.workspace = true
 edition.workspace = true
 

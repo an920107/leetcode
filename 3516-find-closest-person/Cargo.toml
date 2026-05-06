@@ -1,5 +1,5 @@
 [package]
-name = "find_closest_person"
+name = "p3516-find-closest-person"
 version.workspace = true
 edition.workspace = true
 

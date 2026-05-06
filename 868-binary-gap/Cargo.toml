@@ -1,5 +1,5 @@
 [package]
-name = "binary_gap"
+name = "p868-binary-gap"
 version.workspace = true
 edition.workspace = true
 

@@ -1,5 +1,5 @@
 [package]
-name = "decode_the_slanted_ciphertext"
+name = "p2075-decode-the-slanted-ciphertext"
 version.workspace = true
 edition.workspace = true
 

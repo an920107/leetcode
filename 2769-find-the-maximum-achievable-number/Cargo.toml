@@ -1,5 +1,5 @@
 [package]
-name = "find_the_maximum_achievable_number"
+name = "p2769-find-the-maximum-achievable-number"
 version.workspace = true
 edition.workspace = true
 

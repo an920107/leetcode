@@ -1,5 +1,5 @@
 [package]
-name = "maximum_non_negative_product_in_a_matrix"
+name = "p1594-maximum-non-negative-product-in-a-matrix"
 version.workspace = true
 edition.workspace = true
 

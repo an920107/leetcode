@@ -1,5 +1,5 @@
 [package]
-name = "maximum_number_of_words_you_can_type"
+name = "p1935-maximum-number-of-words-you-can-type"
 version.workspace = true
 edition.workspace = true
 

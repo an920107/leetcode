@@ -1,5 +1,5 @@
 [package]
-name = "minimum_cost_path_with_edge_reversals"
+name = "p3650-minimum-cost-path-with-edge-reversals"
 version.workspace = true
 edition.workspace = true
 

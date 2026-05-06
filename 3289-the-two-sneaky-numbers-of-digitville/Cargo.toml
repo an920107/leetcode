@@ -1,5 +1,5 @@
 [package]
-name = "the_two_sneaky_numbers_of_digitville"
+name = "p3289-the-two-sneaky-numbers-of-digitville"
 version.workspace = true
 edition.workspace = true
 

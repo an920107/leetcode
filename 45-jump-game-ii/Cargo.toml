@@ -1,5 +1,5 @@
 [package]
-name = "jump_game_ii"
+name = "p45-jump-game-ii"
 version.workspace = true
 edition.workspace = true
 

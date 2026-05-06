@@ -1,5 +1,5 @@
 [package]
-name = "largest_magic_square"
+name = "p1895-largest-magic-square"
 version.workspace = true
 edition.workspace = true
 

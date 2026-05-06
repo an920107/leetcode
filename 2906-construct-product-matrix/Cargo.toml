@@ -1,5 +1,5 @@
 [package]
-name = "construct_product_matrix"
+name = "p2906-construct-product-matrix"
 version.workspace = true
 edition.workspace = true
 

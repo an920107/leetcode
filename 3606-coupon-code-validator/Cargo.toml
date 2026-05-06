@@ -1,5 +1,5 @@
 [package]
-name = "coupon_code_validator"
+name = "p3606-coupon-code-validator"
 version.workspace = true
 edition.workspace = true
 

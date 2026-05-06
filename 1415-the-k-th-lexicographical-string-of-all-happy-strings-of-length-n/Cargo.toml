@@ -1,5 +1,5 @@
 [package]
-name = "the_k_th_lexicographical_string_of_all_happy_strings_of_length_n"
+name = "p1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n"
 version.workspace = true
 edition.workspace = true
 

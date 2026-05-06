@@ -1,5 +1,5 @@
 [package]
-name = "maximum_square_area_by_removing_fences_from_a_field"
+name = "p2975-maximum-square-area-by-removing-fences-from-a-field"
 version.workspace = true
 edition.workspace = true
 

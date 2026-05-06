@@ -1,5 +1,5 @@
 [package]
-name = "median_of_two_sorted_arrays"
+name = "p4-median-of-two-sorted-arrays"
 version.workspace = true
 edition.workspace = true
 

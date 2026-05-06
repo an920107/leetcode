@@ -1,5 +1,5 @@
 [package]
-name = "implement_router"
+name = "p3508-implement-router"
 version.workspace = true
 edition.workspace = true
 

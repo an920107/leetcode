@@ -1,5 +1,5 @@
 [package]
-name = "restore_finishing_order"
+name = "p3668-restore-finishing-order"
 version.workspace = true
 edition.workspace = true
 

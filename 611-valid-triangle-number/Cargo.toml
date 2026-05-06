@@ -1,5 +1,5 @@
 [package]
-name = "valid_triangle_number"
+name = "p611-valid-triangle-number"
 version.workspace = true
 edition.workspace = true
 

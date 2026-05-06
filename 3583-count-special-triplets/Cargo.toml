@@ -1,5 +1,5 @@
 [package]
-name = "count_special_triplets"
+name = "p3583-count-special-triplets"
 version.workspace = true
 edition.workspace = true
 

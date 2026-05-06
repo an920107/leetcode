@@ -1,5 +1,5 @@
 [package]
-name = "build_array_from_permutation"
+name = "p1920-build-array-from-permutation"
 version.workspace = true
 edition.workspace = true
 

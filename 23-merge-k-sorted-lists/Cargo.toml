@@ -1,5 +1,5 @@
 [package]
-name = "merge_k_sorted_lists"
+name = "p23-merge-k-sorted-lists"
 version.workspace = true
 edition.workspace = true
 

@@ -1,5 +1,5 @@
 [package]
-name = "reverse_linked_list"
+name = "p206-reverse-linked-list"
 version.workspace = true
 edition.workspace = true
 

@@ -1,5 +1,5 @@
 [package]
-name = "minimum_operations_to_make_array_sum_divisible_by_k"
+name = "p3512-minimum-operations-to-make-array-sum-divisible-by-k"
 version.workspace = true
 edition.workspace = true
 

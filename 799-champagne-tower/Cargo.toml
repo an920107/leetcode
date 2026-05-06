@@ -1,5 +1,5 @@
 [package]
-name = "champagne_tower"
+name = "p799-champagne-tower"
 version.workspace = true
 edition.workspace = true
 

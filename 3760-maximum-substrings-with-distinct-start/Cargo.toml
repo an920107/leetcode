@@ -1,5 +1,5 @@
 [package]
-name = "maximum_substrings_with_distinct_start"
+name = "p3760-maximum-substrings-with-distinct-start"
 version.workspace = true
 edition.workspace = true
 

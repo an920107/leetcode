@@ -1,5 +1,5 @@
 [package]
-name = "matrix_similarity_after_cyclic_shifts"
+name = "p2946-matrix-similarity-after-cyclic-shifts"
 version.workspace = true
 edition.workspace = true
 

@@ -1,5 +1,5 @@
 [package]
-name = "insert_greatest_common_divisors_in_linked_list"
+name = "p2807-insert-greatest-common-divisors-in-linked-list"
 version.workspace = true
 edition.workspace = true
 

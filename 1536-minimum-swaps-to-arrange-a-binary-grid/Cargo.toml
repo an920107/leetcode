@@ -1,5 +1,5 @@
 [package]
-name = "minimum_swaps_to_arrange_a_binary_grid"
+name = "p1536-minimum-swaps-to-arrange-a-binary-grid"
 version.workspace = true
 edition.workspace = true
 

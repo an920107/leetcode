@@ -1,5 +1,5 @@
 [package]
-name = "one_bit_and_two_bit_characters"
+name = "p717-one-bit-and-two-bit-characters"
 version.workspace = true
 edition.workspace = true
 

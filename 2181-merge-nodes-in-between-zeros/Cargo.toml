@@ -1,5 +1,5 @@
 [package]
-name = "merge_nodes_in_between_zeros"
+name = "p2181-merge-nodes-in-between-zeros"
 version.workspace = true
 edition.workspace = true
 

@@ -1,5 +1,5 @@
 [package]
-name = "minimum_cost_to_convert_string_ii"
+name = "p2977-minimum-cost-to-convert-string-ii"
 version.workspace = true
 edition.workspace = true
 

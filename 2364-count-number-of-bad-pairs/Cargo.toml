@@ -1,5 +1,5 @@
 [package]
-name = "count_number_of_bad_pairs"
+name = "p2364-count-number-of-bad-pairs"
 version.workspace = true
 edition.workspace = true
 

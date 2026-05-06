@@ -1,5 +1,5 @@
 [package]
-name = "regular_expression_matching"
+name = "p10-regular-expression-matching"
 version.workspace = true
 edition.workspace = true
 

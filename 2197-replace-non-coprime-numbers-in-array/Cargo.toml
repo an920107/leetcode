@@ -1,5 +1,5 @@
 [package]
-name = "replace_non_coprime_numbers_in_array"
+name = "p2197-replace-non-coprime-numbers-in-array"
 version.workspace = true
 edition.workspace = true
 

@@ -1,5 +1,5 @@
 [package]
-name = "design_a_food_rating_system"
+name = "p2353-design-a-food-rating-system"
 version.workspace = true
 edition.workspace = true
 

@@ -1,5 +1,5 @@
 [package]
-name = "largest_submatrix_with_rearrangements"
+name = "p1727-largest-submatrix-with-rearrangements"
 version.workspace = true
 edition.workspace = true
 

@@ -1,5 +1,5 @@
 [package]
-name = "unique_length_3_palindromic_subsequences"
+name = "p1930-unique-length-3-palindromic-subsequences"
 version.workspace = true
 edition.workspace = true
 

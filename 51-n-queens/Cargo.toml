@@ -1,5 +1,5 @@
 [package]
-name = "n_queens"
+name = "p51-n-queens"
 version.workspace = true
 edition.workspace = true
 

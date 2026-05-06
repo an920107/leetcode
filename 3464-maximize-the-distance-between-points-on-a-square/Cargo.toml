@@ -1,5 +1,5 @@
 [package]
-name = "maximize-the-distance-between-points-on-a-square"
+name = "p3464-maximize-the-distance-between-points-on-a-square"
 version.workspace = true
 edition.workspace = true
 

@@ -1,5 +1,5 @@
 [package]
-name = "largest_number_at_least_twice_of_others"
+name = "p747-largest-number-at-least-twice-of-others"
 version.workspace = true
 edition.workspace = true
 

@@ -1,5 +1,5 @@
 [package]
-name = "fraction_to_recurring_decimal"
+name = "p166-fraction-to-recurring-decimal"
 version.workspace = true
 edition.workspace = true
 

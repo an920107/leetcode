@@ -1,5 +1,5 @@
 [package]
-name = "walking_robot_simulation_ii"
+name = "p2069-walking-robot-simulation-ii"
 version.workspace = true
 edition.workspace = true
 

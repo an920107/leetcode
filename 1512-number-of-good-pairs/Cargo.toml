@@ -1,5 +1,5 @@
 [package]
-name = "number_of_good_pairs"
+name = "p1512-number-of-good-pairs"
 version.workspace = true
 edition.workspace = true
 

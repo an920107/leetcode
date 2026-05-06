@@ -1,5 +1,5 @@
 [package]
-name = "minimum_absolute_difference_in_sliding_submatrix"
+name = "p3567-minimum-absolute-difference-in-sliding-submatrix"
 version.workspace = true
 edition.workspace = true
 

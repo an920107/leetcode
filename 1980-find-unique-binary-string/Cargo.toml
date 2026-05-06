@@ -1,5 +1,5 @@
 [package]
-name = "find_unique_binary_string"
+name = "p1980-find-unique-binary-string"
 version.workspace = true
 edition.workspace = true
 

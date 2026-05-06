@@ -1,5 +1,5 @@
 [package]
-name = "final_value_of_variable_after_performing_operations"
+name = "p2011-final-value-of-variable-after-performing-operations"
 version.workspace = true
 edition.workspace = true
 

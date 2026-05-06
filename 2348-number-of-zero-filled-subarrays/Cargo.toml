@@ -1,5 +1,5 @@
 [package]
-name = "number_of_zero_filled_subarrays"
+name = "p2348-number-of-zero-filled-subarrays"
 version.workspace = true
 edition.workspace = true
 

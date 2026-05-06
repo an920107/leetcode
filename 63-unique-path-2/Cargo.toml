@@ -1,5 +1,5 @@
 [package]
-name = "unique_path_2"
+name = "p63-unique-path-2"
 version.workspace = true
 edition.workspace = true
 

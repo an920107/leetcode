@@ -1,5 +1,5 @@
 [package]
-name = "trionic_array_ii"
+name = "p3640-trionic-array-ii"
 version.workspace = true
 edition.workspace = true
 

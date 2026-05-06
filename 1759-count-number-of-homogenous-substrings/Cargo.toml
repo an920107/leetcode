@@ -1,5 +1,5 @@
 [package]
-name = "count_number_of_homogenous_substrings"
+name = "p1759-count-number-of-homogenous-substrings"
 version.workspace = true
 edition.workspace = true
 

@@ -1,5 +1,5 @@
 [package]
-name = "count_binary_substrings"
+name = "p696-count-binary-substrings"
 version.workspace = true
 edition.workspace = true
 

@@ -1,5 +1,5 @@
 [package]
-name = "design_task_manager"
+name = "p3408-design-task-manager"
 version.workspace = true
 edition.workspace = true
 

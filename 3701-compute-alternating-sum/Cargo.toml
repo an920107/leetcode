@@ -1,5 +1,5 @@
 [package]
-name = "compute_alternating_sum"
+name = "p3701-compute-alternating-sum"
 version.workspace = true
 edition.workspace = true
 

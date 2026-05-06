@@ -1,5 +1,5 @@
 [package]
-name = "divide_an_array_into_subarrays_with_minimum_cost_i"
+name = "p3010-divide-an-array-into-subarrays-with-minimum-cost-i"
 version.workspace = true
 edition.workspace = true
 

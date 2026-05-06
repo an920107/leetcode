@@ -1,5 +1,5 @@
 [package]
-name = "count_the_number_of_consistent_strings"
+name = "p1684-count-the-number-of-consistent-strings"
 version.workspace = true
 edition.workspace = true
 

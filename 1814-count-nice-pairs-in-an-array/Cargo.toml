@@ -1,5 +1,5 @@
 [package]
-name = "count_nice_pairs_in_an_array"
+name = "p1814-count-nice-pairs-in-an-array"
 version.workspace = true
 edition.workspace = true
 

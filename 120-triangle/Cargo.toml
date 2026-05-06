@@ -1,5 +1,5 @@
 [package]
-name = "triangle"
+name = "p120-triangle"
 version.workspace = true
 edition.workspace = true
 

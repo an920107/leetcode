@@ -1,5 +1,5 @@
 [package]
-name = "last_day_where_you_can_still_cross"
+name = "p1970-last-day-where-you-can-still-cross"
 version.workspace = true
 edition.workspace = true
 

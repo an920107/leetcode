@@ -1,5 +1,5 @@
 [package]
-name = "two_best_non_overlapping_event"
+name = "p2054-two-best-non-overlapping-event"
 version.workspace = true
 edition.workspace = true
 

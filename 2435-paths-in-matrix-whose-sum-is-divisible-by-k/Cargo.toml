@@ -1,5 +1,5 @@
 [package]
-name = "paths_in_matrix_whose_sum_is_divisible_by_k"
+name = "p2435-paths-in-matrix-whose-sum-is-divisible-by-k"
 version.workspace = true
 edition.workspace = true
 

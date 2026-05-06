@@ -1,5 +1,5 @@
 [package]
-name = "maximum_running_time_of_n_computers"
+name = "p2141-maximum-running-time-of-n-computers"
 version.workspace = true
 edition.workspace = true
 

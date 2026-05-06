@@ -1,5 +1,5 @@
 [package]
-name = "stone_game_iii"
+name = "p1406-stone-game-iii"
 version.workspace = true
 edition.workspace = true
 

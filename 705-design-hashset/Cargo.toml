@@ -1,5 +1,5 @@
 [package]
-name = "design_hashset"
+name = "p705-design-hashset"
 version.workspace = true
 edition.workspace = true
 

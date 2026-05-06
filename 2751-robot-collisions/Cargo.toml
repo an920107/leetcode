@@ -1,5 +1,5 @@
 [package]
-name = "robot_collisions"
+name = "p2751-robot-collisions"
 version.workspace = true
 edition.workspace = true
 

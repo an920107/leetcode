@@ -1,5 +1,5 @@
 [package]
-name = "minimum_ascii_delete_sum_for_two_strings"
+name = "p712-minimum-ascii-delete-sum-for-two-strings"
 version.workspace = true
 edition.workspace = true
 

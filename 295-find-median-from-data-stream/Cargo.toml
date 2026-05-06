@@ -1,5 +1,5 @@
 [package]
-name = "find_median_from_data_stream"
+name = "p295-find-median-from-data-stream"
 version.workspace = true
 edition.workspace = true
 

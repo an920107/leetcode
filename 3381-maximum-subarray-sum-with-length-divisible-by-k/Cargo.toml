@@ -1,5 +1,5 @@
 [package]
-name = "maximum_subarray_sum_with_length_divisible_by_k"
+name = "p3381-maximum-subarray-sum-with-length-divisible-by-k"
 version.workspace = true
 edition.workspace = true
 

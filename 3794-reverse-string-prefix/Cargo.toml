@@ -1,5 +1,5 @@
 [package]
-name = "reverse_string_prefix"
+name = "p3794-reverse-string-prefix"
 version.workspace = true
 edition.workspace = true
 

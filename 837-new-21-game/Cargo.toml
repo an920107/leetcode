@@ -1,5 +1,5 @@
 [package]
-name = "new_21_game"
+name = "p837-new-21-game"
 version.workspace = true
 edition.workspace = true
 

@@ -1,5 +1,5 @@
 [package]
-name = "shortest-distance-to-target-string-in-a-circular-array"
+name = "p2515-shortest-distance-to-target-string-in-a-circular-array"
 version.workspace = true
 edition.workspace = true
 

@@ -1,5 +1,5 @@
 [package]
-name = "add_binary"
+name = "p67-add-binary"
 version.workspace = true
 edition.workspace = true
 

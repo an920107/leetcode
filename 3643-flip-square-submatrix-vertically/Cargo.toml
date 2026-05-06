@@ -1,5 +1,5 @@
 [package]
-name = "flip_square_submatrix_vertically"
+name = "p3643-flip-square-submatrix-vertically"
 version.workspace = true
 edition.workspace = true
 

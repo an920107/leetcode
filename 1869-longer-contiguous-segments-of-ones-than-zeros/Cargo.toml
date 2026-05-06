@@ -1,5 +1,5 @@
 [package]
-name = "longer_contiguous_segments_of_ones_than_zeros"
+name = "p1869-longer-contiguous-segments-of-ones-than-zeros"
 version.workspace = true
 edition.workspace = true
 

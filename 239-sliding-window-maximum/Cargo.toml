@@ -1,5 +1,5 @@
 [package]
-name = "sliding_window_maximum"
+name = "p239-sliding-window-maximum"
 version.workspace = true
 edition.workspace = true
 

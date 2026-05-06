@@ -1,5 +1,5 @@
 [package]
-name = "design_hashmap"
+name = "p706-design-hashmap"
 version.workspace = true
 edition.workspace = true
 

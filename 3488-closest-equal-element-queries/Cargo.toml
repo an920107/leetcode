@@ -1,5 +1,5 @@
 [package]
-name = "closest-equal-element-queries"
+name = "p3488-closest-equal-element-queries"
 version.workspace = true
 edition.workspace = true
 

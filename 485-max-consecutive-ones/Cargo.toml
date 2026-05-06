@@ -1,5 +1,5 @@
 [package]
-name = "max_consecutive_ones"
+name = "p485-max-consecutive-ones"
 version.workspace = true
 edition.workspace = true
 

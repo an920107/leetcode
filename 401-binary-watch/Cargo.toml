@@ -1,5 +1,5 @@
 [package]
-name = "binary_watch"
+name = "p401-binary-watch"
 version.workspace = true
 edition.workspace = true
 

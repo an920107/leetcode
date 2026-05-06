@@ -1,5 +1,5 @@
 [package]
-name = "minimum_deletions_to_make_string_balanced"
+name = "p1653-minimum-deletions-to-make-string-balanced"
 version.workspace = true
 edition.workspace = true
 

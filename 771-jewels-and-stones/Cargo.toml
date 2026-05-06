@@ -1,5 +1,5 @@
 [package]
-name = "jewels_and_stones"
+name = "p771-jewels-and-stones"
 version.workspace = true
 edition.workspace = true
 

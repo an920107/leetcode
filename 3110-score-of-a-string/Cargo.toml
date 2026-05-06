@@ -1,5 +1,5 @@
 [package]
-name = "score_of_a_string"
+name = "p3110-score-of-a-string"
 version.workspace = true
 edition.workspace = true
 

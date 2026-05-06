@@ -1,5 +1,5 @@
 [package]
-name = "unique_path_3"
+name = "p980-unique-path-3"
 version.workspace = true
 edition.workspace = true
 

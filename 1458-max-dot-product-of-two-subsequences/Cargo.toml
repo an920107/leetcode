@@ -1,5 +1,5 @@
 [package]
-name = "max_dot_product_of_two_subsequences"
+name = "p1458-max-dot-product-of-two-subsequences"
 version.workspace = true
 edition.workspace = true
 

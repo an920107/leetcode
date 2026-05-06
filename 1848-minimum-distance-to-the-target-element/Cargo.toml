@@ -1,5 +1,5 @@
 [package]
-name = "minimum_distance_to_the_target_element"
+name = "p1848-minimum-distance-to-the-target-element"
 version.workspace = true
 edition.workspace = true
 

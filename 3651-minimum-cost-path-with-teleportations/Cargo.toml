@@ -1,5 +1,5 @@
 [package]
-name = "minimum_cost_path_with_teleportations"
+name = "p3651-minimum-cost-path-with-teleportations"
 version.workspace = true
 edition.workspace = true
 

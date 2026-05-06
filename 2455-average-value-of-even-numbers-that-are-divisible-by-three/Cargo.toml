@@ -1,5 +1,5 @@
 [package]
-name = "average_value_of_even_numbers_that_are_divisible_by_three"
+name = "p2455-average-value-of-even-numbers-that-are-divisible-by-three"
 version.workspace = true
 edition.workspace = true
 

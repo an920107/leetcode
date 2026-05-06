@@ -1,5 +1,5 @@
 [package]
-name = "count_square_sum_triples"
+name = "p1925-count-square-sum-triples"
 version.workspace = true
 edition.workspace = true
 

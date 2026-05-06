@@ -1,5 +1,5 @@
 [package]
-name = "strictly_palindromic_number"
+name = "p2396-strictly-palindromic-number"
 version.workspace = true
 edition.workspace = true
 

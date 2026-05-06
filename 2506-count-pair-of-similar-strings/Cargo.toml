@@ -1,5 +1,5 @@
 [package]
-name = "count_pair_of_similar_strings"
+name = "p2506-count-pair-of-similar-strings"
 version.workspace = true
 edition.workspace = true
 

@@ -1,5 +1,5 @@
 [package]
-name = "count_odd_numbers_in_an_interval_range"
+name = "p1523-count-odd-numbers-in-an-interval-range"
 version.workspace = true
 edition.workspace = true
 

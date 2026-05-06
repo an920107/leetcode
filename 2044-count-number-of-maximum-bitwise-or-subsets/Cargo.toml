@@ -1,5 +1,5 @@
 [package]
-name = "count_number_of_maximum_bitwise_or_subsets"
+name = "p2044-count-number-of-maximum-bitwise-or-subsets"
 version.workspace = true
 edition.workspace = true
 

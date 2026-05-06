@@ -1,5 +1,5 @@
 [package]
-name = "lexicographically_smallest_generated_string"
+name = "p3474-lexicographically-smallest-generated-string"
 version.workspace = true
 edition.workspace = true
 

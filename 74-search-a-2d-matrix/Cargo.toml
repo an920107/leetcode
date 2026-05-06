@@ -1,5 +1,5 @@
 [package]
-name = "search_a_2d_matrix"
+name = "p74-search-a-2d-matrix"
 version.workspace = true
 edition.workspace = true
 

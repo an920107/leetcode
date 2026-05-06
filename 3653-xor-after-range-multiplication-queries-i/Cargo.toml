@@ -1,5 +1,5 @@
 [package]
-name = "xor_after_range_multiplication_queries_i"
+name = "p3653-xor-after-range-multiplication-queries-i"
 version.workspace = true
 edition.workspace = true
 

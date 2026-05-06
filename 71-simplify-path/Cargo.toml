@@ -1,5 +1,5 @@
 [package]
-name = "simplify_path"
+name = "p71-simplify-path"
 version.workspace = true
 edition.workspace = true
 

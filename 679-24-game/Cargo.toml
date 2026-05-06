@@ -1,5 +1,5 @@
 [package]
-name = "twenty_four_game"
+name = "p679-24-game"
 version.workspace = true
 edition.workspace = true
 

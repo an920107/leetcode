@@ -1,5 +1,5 @@
 [package]
-name = "subsets"
+name = "p78-subsets"
 version.workspace = true
 edition.workspace = true
 

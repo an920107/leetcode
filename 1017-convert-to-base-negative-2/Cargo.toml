@@ -1,5 +1,5 @@
 [package]
-name = "convert_to_base_negative_2"
+name = "p1017-convert-to-base-negative-2"
 version.workspace = true
 edition.workspace = true
 

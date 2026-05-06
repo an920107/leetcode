@@ -18,7 +18,7 @@ impl Solution {
     }
 }
 
-/**
+/*
 
  f(0)   = 0 * a_0     + 1 * a_1     + 2 * a_2 ....  + (n-1) * a_(n-1)
  f(1)   = 0 * a_(n-1) + 1 * a_0     + 2 * a_1 ....  + (n-1) * a_(n-2)
@@ -38,4 +38,4 @@ impl Solution {
  diff = f(i)-f(i-1) = sum - n * a_(n-i)
  f(i) = diff + f(i-1)
 
-**/
+*/

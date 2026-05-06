@@ -1,5 +1,5 @@
 [package]
-name = "binary_prefix_divisible_by_5"
+name = "p1018-binary-prefix-divisible-by-5"
 version.workspace = true
 edition.workspace = true
 

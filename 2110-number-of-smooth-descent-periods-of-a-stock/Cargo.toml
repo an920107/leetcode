@@ -1,5 +1,5 @@
 [package]
-name = "number_of_smooth_descent_periods_of_a_stock"
+name = "p2110-number-of-smooth-descent-periods-of-a-stock"
 version.workspace = true
 edition.workspace = true
 

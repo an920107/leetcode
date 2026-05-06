@@ -1,5 +1,5 @@
 [package]
-name = "get_biggest_three_rhombus_sums_in_a_grid"
+name = "p1878-get-biggest-three-rhombus-sums-in-a-grid"
 version.workspace = true
 edition.workspace = true
 

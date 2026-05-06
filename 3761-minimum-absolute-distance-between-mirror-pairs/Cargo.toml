@@ -1,5 +1,5 @@
 [package]
-name = "minimum-absolute-distance-between-mirror-pairs"
+name = "p3761-minimum-absolute-distance-between-mirror-pairs"
 version.workspace = true
 edition.workspace = true
 

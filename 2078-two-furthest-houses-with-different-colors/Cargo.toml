@@ -1,5 +1,5 @@
 [package]
-name = "two-furthest-houses-with-different-colors"
+name = "p2078-two-furthest-houses-with-different-colors"
 version.workspace = true
 edition.workspace = true
 

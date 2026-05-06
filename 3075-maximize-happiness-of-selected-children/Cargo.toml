@@ -1,5 +1,5 @@
 [package]
-name = "maximize_happiness_of_selected_children"
+name = "p3075-maximize-happiness-of-selected-children"
 version.workspace = true
 edition.workspace = true
 

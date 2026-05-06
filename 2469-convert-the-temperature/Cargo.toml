@@ -1,5 +1,5 @@
 [package]
-name = "convert_the_temperature"
+name = "p2469-convert-the-temperature"
 version.workspace = true
 edition.workspace = true
 

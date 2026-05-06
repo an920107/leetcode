@@ -1,5 +1,5 @@
 [package]
-name = "pyramid_transition_matrix"
+name = "p756-pyramid-transition-matrix"
 version.workspace = true
 edition.workspace = true
 

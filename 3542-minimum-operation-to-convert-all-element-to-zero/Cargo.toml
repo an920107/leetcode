@@ -1,5 +1,5 @@
 [package]
-name = "minimum_operation_to_convert_all_element_to_zero"
+name = "p3542-minimum-operation-to-convert-all-element-to-zero"
 version.workspace = true
 edition.workspace = true
 

@@ -1,5 +1,5 @@
 [package]
-name = "sum-of-distances"
+name = "p2615-sum-of-distances"
 version.workspace = true
 edition.workspace = true
 

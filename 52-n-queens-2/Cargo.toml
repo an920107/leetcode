@@ -1,5 +1,5 @@
 [package]
-name = "n_queens_2"
+name = "p52-n-queens-2"
 version.workspace = true
 edition.workspace = true
 

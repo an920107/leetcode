@@ -1,5 +1,5 @@
 [package]
-name = "minimum_operations_to_equalize_binary_string"
+name = "p3666-minimum-operations-to-equalize-binary-string"
 version.workspace = true
 edition.workspace = true
 

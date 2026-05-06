@@ -1,5 +1,5 @@
 [package]
-name = "find_all_possible_stable_binary_arrays_i"
+name = "p3129-find-all-possible-stable-binary-arrays-i"
 version.workspace = true
 edition.workspace = true
 

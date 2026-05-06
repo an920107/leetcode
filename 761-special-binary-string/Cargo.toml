@@ -1,5 +1,5 @@
 [package]
-name = "special_binary_string"
+name = "p761-special-binary-string"
 version.workspace = true
 edition.workspace = true
 

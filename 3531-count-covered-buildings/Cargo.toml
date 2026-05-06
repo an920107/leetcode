@@ -1,5 +1,5 @@
 [package]
-name = "count_covered_buildings"
+name = "p3531-count-covered-buildings"
 version.workspace = true
 edition.workspace = true
 

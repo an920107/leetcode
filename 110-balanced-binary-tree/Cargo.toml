@@ -1,5 +1,5 @@
 [package]
-name = "balanced_binary_tree"
+name = "p110-balanced-binary-tree"
 version.workspace = true
 edition.workspace = true
 

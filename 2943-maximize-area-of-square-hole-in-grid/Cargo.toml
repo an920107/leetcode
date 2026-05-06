@@ -1,5 +1,5 @@
 [package]
-name = "maximize_area_of_square_hole_in_grid"
+name = "p2943-maximize-area-of-square-hole-in-grid"
 version.workspace = true
 edition.workspace = true
 

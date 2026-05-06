@@ -1,5 +1,5 @@
 [package]
-name = "number_of_substrings_with_only_1s"
+name = "p1513-number-of-substrings-with-only-1s"
 version.workspace = true
 edition.workspace = true
 

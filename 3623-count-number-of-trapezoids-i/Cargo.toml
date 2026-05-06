@@ -1,5 +1,5 @@
 [package]
-name = "count_number_of_trapezoids_i"
+name = "p3623-count-number-of-trapezoids-i"
 version.workspace = true
 edition.workspace = true
 

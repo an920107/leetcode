@@ -1,5 +1,5 @@
 [package]
-name = "fancy_sequence"
+name = "p1622-fancy-sequence"
 version.workspace = true
 edition.workspace = true
 

@@ -1,5 +1,5 @@
 [package]
-name = "count_negative_numbers_in_a_sorted_matrix"
+name = "p1351-count-negative-numbers-in-a-sorted-matrix"
 version.workspace = true
 edition.workspace = true
 

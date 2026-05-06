@@ -1,5 +1,5 @@
 [package]
-name = "seat_reservation_manager"
+name = "p1845-seat-reservation-manager"
 version.workspace = true
 edition.workspace = true
 

@@ -1,5 +1,5 @@
 [package]
-name = "minimum_absolute_difference"
+name = "p1200-minimum-absolute-difference"
 version.workspace = true
 edition.workspace = true
 

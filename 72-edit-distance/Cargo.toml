@@ -1,5 +1,5 @@
 [package]
-name = "edit_distance"
+name = "p72-edit-distance"
 version.workspace = true
 edition.workspace = true
 

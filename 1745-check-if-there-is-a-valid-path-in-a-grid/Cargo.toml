@@ -1,5 +1,5 @@
 [package]
-name = "check-if-there-is-a-valid-path-in-a-grid"
+name = "p1745-check-if-there-is-a-valid-path-in-a-grid"
 version.workspace = true
 edition.workspace = true
 

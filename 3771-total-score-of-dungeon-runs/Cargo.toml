@@ -1,5 +1,5 @@
 [package]
-name = "total_score_of_dungeon_runs"
+name = "p3771-total-score-of-dungeon-runs"
 version.workspace = true
 edition.workspace = true
 

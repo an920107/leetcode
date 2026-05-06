@@ -1,5 +1,5 @@
 [package]
-name = "shuffle_the_array"
+name = "p1470-shuffle-the-array"
 version.workspace = true
 edition.workspace = true
 

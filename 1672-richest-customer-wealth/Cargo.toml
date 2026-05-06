@@ -1,5 +1,5 @@
 [package]
-name = "richest_customer_wealth"
+name = "p1672-richest-customer-wealth"
 version.workspace = true
 edition.workspace = true
 

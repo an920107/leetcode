@@ -1,5 +1,5 @@
 [package]
-name = "minimum_distance_between_three_equal_elements_ii"
+name = "p3741-minimum-distance-between-three-equal-elements-ii"
 version.workspace = true
 edition.workspace = true
 

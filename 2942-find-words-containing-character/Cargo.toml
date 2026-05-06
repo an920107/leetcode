@@ -1,5 +1,5 @@
 [package]
-name = "find_words_containing_character"
+name = "p2942-find-words-containing-character"
 version.workspace = true
 edition.workspace = true
 

@@ -1,5 +1,5 @@
 [package]
-name = "count_mentions_per_user"
+name = "p3433-count-mentions-per-user"
 version.workspace = true
 edition.workspace = true
 

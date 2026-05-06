@@ -1,5 +1,5 @@
 [package]
-name = "transformed_array"
+name = "p3379-transformed-array"
 version.workspace = true
 edition.workspace = true
 

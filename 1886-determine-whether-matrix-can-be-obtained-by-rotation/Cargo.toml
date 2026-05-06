@@ -1,5 +1,5 @@
 [package]
-name = "determine_whether_matrix_can_be_obtained_by_rotation"
+name = "p1886-determine-whether-matrix-can-be-obtained-by-rotation"
 version.workspace = true
 edition.workspace = true
 

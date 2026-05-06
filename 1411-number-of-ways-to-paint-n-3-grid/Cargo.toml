@@ -1,5 +1,5 @@
 [package]
-name = "number_of_ways_to_paint_n_3_grid"
+name = "p1411-number-of-ways-to-paint-n-3-grid"
 version.workspace = true
 edition.workspace = true
 

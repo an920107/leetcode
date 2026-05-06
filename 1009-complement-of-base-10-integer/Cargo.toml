@@ -1,5 +1,5 @@
 [package]
-name = "complement_of_base_10_integer"
+name = "p1009-complement-of-base-10-integer"
 version.workspace = true
 edition.workspace = true
 

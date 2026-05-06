@@ -1,5 +1,5 @@
 [package]
-name = "longest_balanced_substring_i"
+name = "p3713-longest-balanced-substring-i"
 version.workspace = true
 edition.workspace = true
 

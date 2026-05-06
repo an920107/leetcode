@@ -1,5 +1,5 @@
 [package]
-name = "minimum_moves_to_equal_array_elements"
+name = "p453-minimum-moves-to-equal-array-elements"
 version.workspace = true
 edition.workspace = true
 

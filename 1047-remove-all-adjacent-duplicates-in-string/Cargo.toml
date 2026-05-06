@@ -1,5 +1,5 @@
 [package]
-name = "remove_all_adjacent_duplicates_in_string"
+name = "p1047-remove-all-adjacent-duplicates-in-string"
 version.workspace = true
 edition.workspace = true
 

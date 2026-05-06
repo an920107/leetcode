@@ -1,5 +1,5 @@
 [package]
-name = "find_all_people_with_secret"
+name = "p2092-find-all-people-with-secret"
 version.workspace = true
 edition.workspace = true
 

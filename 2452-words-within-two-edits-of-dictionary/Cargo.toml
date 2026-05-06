@@ -1,5 +1,5 @@
 [package]
-name = "words-within-two-edits-of-dictionary"
+name = "p2452-words-within-two-edits-of-dictionary"
 version.workspace = true
 edition.workspace = true
 

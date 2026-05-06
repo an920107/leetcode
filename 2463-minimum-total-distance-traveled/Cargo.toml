@@ -1,5 +1,5 @@
 [package]
-name = "minimum-total-distance-traveled"
+name = "p2463-minimum-total-distance-traveled"
 version.workspace = true
 edition.workspace = true
 

@@ -1,5 +1,5 @@
 [package]
-name = "count_the_number_of_substrings_with_dominant_ones"
+name = "p3234-count-the-number-of-substrings-with-dominant-ones"
 version.workspace = true
 edition.workspace = true
 

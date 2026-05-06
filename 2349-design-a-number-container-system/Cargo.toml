@@ -1,5 +1,5 @@
 [package]
-name = "design_a_number_container_system"
+name = "p2349-design-a-number-container-system"
 version.workspace = true
 edition.workspace = true
 

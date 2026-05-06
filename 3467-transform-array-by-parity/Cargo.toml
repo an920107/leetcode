@@ -1,5 +1,5 @@
 [package]
-name = "transform_array_by_parity"
+name = "p3467-transform-array-by-parity"
 version.workspace = true
 edition.workspace = true
 

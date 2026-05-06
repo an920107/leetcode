@@ -1,5 +1,5 @@
 [package]
-name = "furthest-point-from-origin"
+name = "p2833-furthest-point-from-origin"
 version.workspace = true
 edition.workspace = true
 

@@ -1,5 +1,5 @@
 [package]
-name = "count_collisions_on_a_road"
+name = "p2211-count-collisions-on-a-road"
 version.workspace = true
 edition.workspace = true
 

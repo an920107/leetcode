@@ -1,5 +1,5 @@
 [package]
-name = "greatest_sum_divisible_by_three"
+name = "p1262-greatest-sum-divisible-by-three"
 version.workspace = true
 edition.workspace = true
 

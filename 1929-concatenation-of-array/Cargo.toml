@@ -1,5 +1,5 @@
 [package]
-name = "concatenation_of_array"
+name = "p1929-concatenation-of-array"
 version.workspace = true
 edition.workspace = true
 

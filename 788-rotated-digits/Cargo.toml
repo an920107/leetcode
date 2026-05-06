@@ -1,5 +1,5 @@
 [package]
-name = "rotated-digits"
+name = "p788-rotated-digits"
 version.workspace = true
 edition.workspace = true
 

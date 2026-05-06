@@ -1,5 +1,5 @@
 [package]
-name = "minimum_removals_to_balance_array"
+name = "p3634-minimum-removals-to-balance-array"
 version.workspace = true
 edition.workspace = true
 

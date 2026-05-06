@@ -1,5 +1,5 @@
 [package]
-name = "sum_of_all_subset_xor_totals"
+name = "p1863-sum-of-all-subset-xor-totals"
 version.workspace = true
 edition.workspace = true
 

@@ -1,5 +1,5 @@
 [package]
-name = "minimum_time_visiting_all_points"
+name = "p1266-minimum-time-visiting-all-points"
 version.workspace = true
 edition.workspace = true
 

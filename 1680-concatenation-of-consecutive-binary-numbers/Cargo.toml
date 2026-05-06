@@ -1,5 +1,5 @@
 [package]
-name = "concatenation_of_consecutive_binary_numbers"
+name = "p1680-concatenation-of-consecutive-binary-numbers"
 version.workspace = true
 edition.workspace = true
 

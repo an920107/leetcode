@@ -1,5 +1,5 @@
 [package]
-name = "binary_number_with_alternating_bits"
+name = "p693-binary-number-with-alternating-bits"
 version.workspace = true
 edition.workspace = true
 

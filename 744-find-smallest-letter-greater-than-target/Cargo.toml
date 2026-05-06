@@ -1,5 +1,5 @@
 [package]
-name = "find_smallest_letter_greater_than_target"
+name = "p744-find-smallest-letter-greater-than-target"
 version.workspace = true
 edition.workspace = true
 
