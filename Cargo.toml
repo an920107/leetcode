@@ -243,6 +243,7 @@ members = [
   "3652-best-time-to-buy-and-sell-stock-using-strategy",
   "3653-xor-after-range-multiplication-queries-i",
   "3655-xor-after-range-multiplication-queries-ii",
+  "3660-jump-game-ix",
   "3661-maximum-walls-destroyed-by-robots",
   "3666-minimum-operations-to-equalize-binary-string",
   "3668-restore-finishing-order",
