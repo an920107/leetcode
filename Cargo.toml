@@ -234,6 +234,7 @@ members = [
   "3606-coupon-code-validator",
   "3623-count-number-of-trapezoids-i",
   "3625-count-number-of-trapezoids-ii",
+  "3629-minimum-jumps-to-reach-end-via-prime-teleportation",
   "3634-minimum-removals-to-balance-array",
   "3637-trionic-array-i",
   "3640-trionic-array-ii",

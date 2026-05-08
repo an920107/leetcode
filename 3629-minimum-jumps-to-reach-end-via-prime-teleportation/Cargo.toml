@@ -1,0 +1,6 @@
+[package]
+name = "minimum-jumps-to-reach-end-via-prime-teleportation"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
