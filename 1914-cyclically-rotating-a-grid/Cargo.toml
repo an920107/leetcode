@@ -1,0 +1,6 @@
+[package]
+name = "cyclically-rotating-a-grid"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
