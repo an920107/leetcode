@@ -1,0 +1,6 @@
+[package]
+name = "maximum-number-of-jumps-to-reach-the-last-index"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
