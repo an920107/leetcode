@@ -124,6 +124,7 @@ members = [
   "1845-seat-reservation-manager",
   "1848-minimum-distance-to-the-target-element",
   "1855-maximum-distance-between-a-pair-of-values",
+  "1861-rotating-the-box",
   "1863-sum-of-all-subset-xor-totals",
   "1869-longer-contiguous-segments-of-ones-than-zeros",
   "1877-minimize-maximum-pair-sum-in-array",
