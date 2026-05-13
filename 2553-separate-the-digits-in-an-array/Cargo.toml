@@ -1,0 +1,6 @@
+[package]
+name = "separate-the-digits-in-an-array"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

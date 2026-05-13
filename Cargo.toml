@@ -171,6 +171,7 @@ members = [
   "2483-minimum-penalty-for-a-shop",
   "2506-count-pair-of-similar-strings",
   "2515-shortest-distance-to-target-string-in-a-circular-array",
+  "2553-separate-the-digits-in-an-array",
   "2573-find-the-string-with-lcp",
   "2615-sum-of-distances",
   "2644-find-the-maximum-divisibility-score",
