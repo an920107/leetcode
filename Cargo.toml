@@ -179,6 +179,7 @@ members = [
   "2751-robot-collisions",
   "2769-find-the-maximum-achievable-number",
   "2770-maximum-number-of-jumps-to-reach-the-last-index",
+  "2784-check-if-array-is-good",
   "2807-insert-greatest-common-divisors-in-linked-list",
   "2833-furthest-point-from-origin",
   "2839-check-if-strings-can-be-made-equal-with-operations-i",
