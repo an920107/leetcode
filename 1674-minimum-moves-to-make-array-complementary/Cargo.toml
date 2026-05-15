@@ -1,0 +1,6 @@
+[package]
+name = "minimum-moves-to-make-array-complementary"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

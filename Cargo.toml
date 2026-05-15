@@ -110,6 +110,7 @@ members = [
   "1622-fancy-sequence",
   "1653-minimum-deletions-to-make-string-balanced",
   "1672-richest-customer-wealth",
+  "1674-minimum-moves-to-make-array-complementary",
   "1680-concatenation-of-consecutive-binary-numbers",
   "1684-count-the-number-of-consistent-strings",
   "1689-partitioning-into-minimum-number-of-deci-binary-numbers",
