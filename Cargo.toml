@@ -83,6 +83,7 @@ members = [
   "1266-minimum-time-visiting-all-points",
   "1277-count-square-submatrices-with-all-ones",
   "1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold",
+  "1306-jump-game-iii",
   "1320-minimum-distance-to-type-a-word-using-two-fingers",
   "1323-maximum-69-number",
   "1351-count-negative-numbers-in-a-sorted-matrix",
