@@ -70,6 +70,10 @@ name = "maximum-number-of-jumps-to-reach-the-last-index"
 version = "0.1.0"
 
 [[package]]
+name = "minimum-common-value"
+version = "0.1.0"
+
+[[package]]
 name = "minimum-jumps-to-reach-end-via-prime-teleportation"
 version = "0.1.0"
 
