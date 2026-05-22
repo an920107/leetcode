@@ -1,0 +1,6 @@
+[package]
+name = "find-the-length-of-the-longest-common-prefix"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
