@@ -5,6 +5,7 @@ members = [
   "10-regular-expression-matching",
   "23-merge-k-sorted-lists",
   "29-divide-two-integer",
+  "33-search-in-rotated-sorted-array",
   "37-sudoku-solver",
   "43-multiply-strings",
   "45-jump-game-ii",
