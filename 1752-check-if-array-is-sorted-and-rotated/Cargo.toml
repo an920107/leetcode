@@ -1,0 +1,6 @@
+[package]
+name = "check-if-array-is-sorted-and-rotated"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

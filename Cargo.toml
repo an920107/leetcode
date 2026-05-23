@@ -120,6 +120,7 @@ members = [
   "1722-minimize-hamming-distance-after-swap-operations",
   "1727-largest-submatrix-with-rearrangements",
   "1745-check-if-there-is-a-valid-path-in-a-grid",
+  "1752-check-if-array-is-sorted-and-rotated",
   "1758-minimum-changes-to-make-alternating-binary-string",
   "1759-count-number-of-homogenous-substrings",
   "1769-minimum-number-of-operations-to-move-all-balls-to-each-box",
