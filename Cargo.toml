@@ -88,6 +88,7 @@ members = [
   "1306-jump-game-iii",
   "1320-minimum-distance-to-type-a-word-using-two-fingers",
   "1323-maximum-69-number",
+  "1340-jump-game-v",
   "1351-count-negative-numbers-in-a-sorted-matrix",
   "1356-sort-integers-by-the-number-of-1-bits",
   "1390-four-divisors",
