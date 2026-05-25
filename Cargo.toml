@@ -134,6 +134,7 @@ members = [
   "1861-rotating-the-box",
   "1863-sum-of-all-subset-xor-totals",
   "1869-longer-contiguous-segments-of-ones-than-zeros",
+  "1871-jump-game-vii",
   "1877-minimize-maximum-pair-sum-in-array",
   "1878-get-biggest-three-rhombus-sums-in-a-grid",
   "1886-determine-whether-matrix-can-be-obtained-by-rotation",

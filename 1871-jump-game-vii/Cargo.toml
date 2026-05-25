@@ -1,0 +1,6 @@
+[package]
+name = "jump-game-vii"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
