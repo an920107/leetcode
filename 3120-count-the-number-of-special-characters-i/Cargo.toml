@@ -1,0 +1,6 @@
+[package]
+name = "count-the-number-of-special-characters-i"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
