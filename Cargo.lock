@@ -21,6 +21,10 @@ name = "count-the-number-of-special-characters-i"
 version = "0.1.0"
 
 [[package]]
+name = "count-the-number-of-special-characters-ii"
+version = "0.1.0"
+
+[[package]]
 name = "cyclically-rotating-a-grid"
 version = "0.1.0"
 
