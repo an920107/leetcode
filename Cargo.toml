@@ -277,7 +277,7 @@ members = [
   "3761-minimum-absolute-distance-between-mirror-pairs",
   "3771-total-score-of-dungeon-runs",
   "3783-mirror-distance-of-an-integer",
-  "3794-reverse-string-prefix",
+  "3794-reverse-string-prefix", "3300-minimum-element-after-replacement-with-digit-sum",
 ]
 
 [workspace.package]

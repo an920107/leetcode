@@ -1,0 +1,6 @@
+[package]
+name = "minimum-element-after-replacement-with-digit-sum"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

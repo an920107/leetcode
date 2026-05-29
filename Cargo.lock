@@ -98,6 +98,10 @@ name = "minimum-common-value"
 version = "0.1.0"
 
 [[package]]
+name = "minimum-element-after-replacement-with-digit-sum"
+version = "0.1.0"
+
+[[package]]
 name = "minimum-jumps-to-reach-end-via-prime-teleportation"
 version = "0.1.0"
 
