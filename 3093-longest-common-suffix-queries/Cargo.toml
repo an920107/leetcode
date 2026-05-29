@@ -1,0 +1,6 @@
+[package]
+name = "longest-common-suffix-queries"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
