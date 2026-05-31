@@ -1,0 +1,6 @@
+[package]
+name = "destroying-asteroids"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

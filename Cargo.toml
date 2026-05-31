@@ -159,6 +159,7 @@ members = [
   "2078-two-furthest-houses-with-different-colors",
   "2092-find-all-people-with-secret",
   "2110-number-of-smooth-descent-periods-of-a-stock",
+  "2126-destroying-asteroids",
   "2141-maximum-running-time-of-n-computers",
   "2147-number-of-ways-to-divide-a-long-corridor",
   "2154-keep-multiplying-found-values-by-two",
@@ -216,6 +217,7 @@ members = [
   "3120-count-the-number-of-special-characters-i",
   "3121-count-the-number-of-special-characters-ii",
   "3129-find-all-possible-stable-binary-arrays-i",
+  "3161-block-placement-queries",
   "3190-find-minimum-operations-to-make-all-elements-divisible-by-three",
   "3195-find-the-minimum-area-to-cover-all-ones",
   "3212-count-submatrices-with-equal-frequency-of-x-and-y",
@@ -279,7 +281,7 @@ members = [
   "3761-minimum-absolute-distance-between-mirror-pairs",
   "3771-total-score-of-dungeon-runs",
   "3783-mirror-distance-of-an-integer",
-  "3794-reverse-string-prefix", "3161-block-placement-queries",
+  "3794-reverse-string-prefix",
 ]
 
 [workspace.package]
