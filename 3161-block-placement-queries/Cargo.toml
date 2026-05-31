@@ -1,0 +1,6 @@
+[package]
+name = "block-placement-queries"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
