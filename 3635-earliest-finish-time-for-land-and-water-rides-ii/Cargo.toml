@@ -1,0 +1,6 @@
+[package]
+name = "earliest-finish-time-for-land-and-water-rides-ii"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
