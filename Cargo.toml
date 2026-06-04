@@ -279,6 +279,7 @@ members = [
   "3740-minimum-distance-between-three-equal-elements-i",
   "3741-minimum-distance-between-three-equal-elements-ii",
   "3742-maximum-path-score-in-a-grid",
+  "3751-total-waviness-of-numbers-in-range-i",
   "3760-maximum-substrings-with-distinct-start",
   "3761-minimum-absolute-distance-between-mirror-pairs",
   "3771-total-score-of-dungeon-runs",

@@ -1,0 +1,6 @@
+[package]
+name = "total-waviness-of-numbers-in-range-i"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
