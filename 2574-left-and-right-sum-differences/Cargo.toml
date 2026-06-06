@@ -1,0 +1,6 @@
+[package]
+name = "left-and-right-sum-differences"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

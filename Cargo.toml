@@ -183,6 +183,7 @@ members = [
   "2540-minimum-common-value",
   "2553-separate-the-digits-in-an-array",
   "2573-find-the-string-with-lcp",
+  "2574-left-and-right-sum-differences",
   "2615-sum-of-distances",
   "2644-find-the-maximum-divisibility-score",
   "2716-minimize-string-length",
