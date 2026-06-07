@@ -1,0 +1,6 @@
+[package]
+name = "create-binary-tree-from-descriptions"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

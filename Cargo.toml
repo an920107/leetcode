@@ -164,6 +164,7 @@ members = [
   "2147-number-of-ways-to-divide-a-long-corridor",
   "2154-keep-multiplying-found-values-by-two",
   "2181-merge-nodes-in-between-zeros",
+  "2196-create-binary-tree-from-descriptions",
   "2197-replace-non-coprime-numbers-in-array",
   "2211-count-collisions-on-a-road",
   "2348-number-of-zero-filled-subarrays",
