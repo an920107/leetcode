@@ -1,0 +1,6 @@
+[package]
+name = "partition-array-according-to-given-pivot"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

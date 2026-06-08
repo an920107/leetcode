@@ -163,6 +163,7 @@ members = [
   "2141-maximum-running-time-of-n-computers",
   "2147-number-of-ways-to-divide-a-long-corridor",
   "2154-keep-multiplying-found-values-by-two",
+  "2161-partition-array-according-to-given-pivot",
   "2181-merge-nodes-in-between-zeros",
   "2196-create-binary-tree-from-descriptions",
   "2197-replace-non-coprime-numbers-in-array",

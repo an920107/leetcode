@@ -1179,6 +1179,10 @@ name = "p980-unique-path-3"
 version = "0.1.0"
 
 [[package]]
+name = "partition-array-according-to-given-pivot"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.21"
 source = "registry+https://github.com/rust-lang/crates.io-index"
