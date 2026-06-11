@@ -1,0 +1,6 @@
+[package]
+name = "number-of-ways-to-assign-edge-weights-i"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
