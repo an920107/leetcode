@@ -275,6 +275,7 @@ members = [
   "3666-minimum-operations-to-equalize-binary-string",
   "3668-restore-finishing-order",
   "3689-maximum-total-subarray-value-i",
+  "3691-maximum-total-subarray-value-ii",
   "3701-compute-alternating-sum",
   "3713-longest-balanced-substring-i",
   "3714-longest-balanced-substring-ii",

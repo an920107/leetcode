@@ -126,6 +126,10 @@ name = "maximum-total-subarray-value-i"
 version = "0.1.0"
 
 [[package]]
+name = "maximum-total-subarray-value-ii"
+version = "0.1.0"
+
+[[package]]
 name = "minimum-common-value"
 version = "0.1.0"
 
