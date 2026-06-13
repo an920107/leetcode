@@ -251,6 +251,8 @@ members = [
   "3542-minimum-operation-to-convert-all-element-to-zero",
   "3546-equal-sum-grid-partition-i",
   "3548-equal-sum-grid-partition-ii",
+  "3558-number-of-ways-to-assign-edge-weights-i",
+  "3559-number-of-ways-to-assign-edge-weights-ii",
   "3567-minimum-absolute-difference-in-sliding-submatrix",
   "3573-best-time-to-buy-and-sell-stock-v",
   "3577-count-the-number-of-computer-unlocking-permutations",
@@ -289,7 +291,7 @@ members = [
   "3761-minimum-absolute-distance-between-mirror-pairs",
   "3771-total-score-of-dungeon-runs",
   "3783-mirror-distance-of-an-integer",
-  "3794-reverse-string-prefix", "3558-number-of-ways-to-assign-edge-weights-i",
+  "3794-reverse-string-prefix",
 ]
 
 [workspace.package]
