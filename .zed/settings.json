@@ -1,0 +1,10 @@
+{
+  "languages": {
+    "C": {
+      "tab_size": 4,
+    },
+    "C++": {
+      "tab_size": 4,
+    },
+  },
+}
