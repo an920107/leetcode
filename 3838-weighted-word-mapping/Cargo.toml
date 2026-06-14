@@ -1,0 +1,6 @@
+[package]
+name = "weighted-word-mapping"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
