@@ -2,8 +2,8 @@
 using namespace std;
 
 class Solution {
-   public:
-    int majorityElement(vector<int>& nums) {
+  public:
+    int majorityElement(vector<int> &nums) {
         // result can be any number
         int count = 0, result = 0;
 

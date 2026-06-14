@@ -4,8 +4,8 @@ using namespace std;
 const int MOD = 1000000007;
 
 class Solution {
-   public:
-    int countPartitions(vector<int>& nums, int k) {
+  public:
+    int countPartitions(vector<int> &nums, int k) {
         vector<int> dp(nums.size() + 1);
         dp[0] = 1;
         long long acc = 1;
@@ -36,7 +36,7 @@ class Solution {
     }
 };
 
-int main(int argc, char const* argv[]) {
+int main(int argc, char const *argv[]) {
     vector<int> nums{9, 4, 1, 3, 7};
     Solution().countPartitions(nums, 4);
     return 0;

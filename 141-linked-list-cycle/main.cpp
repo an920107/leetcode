@@ -8,9 +8,10 @@ struct ListNode {
 };
 
 class Solution {
-   public:
+  public:
     bool hasCycle(ListNode *head) {
-        if (!head) return false;
+        if (!head)
+            return false;
 
         ListNode *slowNode = head;
         ListNode *fastNode = head->next;

@@ -2,7 +2,7 @@
 using namespace std;
 
 class Solution {
-   public:
+  public:
     vector<int> getRow(int rowIndex) {
         vector<int> lastRow{1};
         for (int i = 1; i < rowIndex + 1; i++) {

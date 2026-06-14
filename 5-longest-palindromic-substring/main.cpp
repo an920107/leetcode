@@ -2,9 +2,10 @@
 using namespace std;
 
 class Solution {
-public:
+  public:
     int findPalindromeLength(const string &str, int center, int skip) {
-        for (int radius = skip; center - radius >= 0 && center + radius < str.length(); radius++) {
+        for (int radius = skip;
+             center - radius >= 0 && center + radius < str.length(); radius++) {
             char r = str[center + radius];
             char l = str[center - radius];
 

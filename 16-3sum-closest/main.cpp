@@ -2,8 +2,8 @@
 using namespace std;
 
 class Solution {
-   public:
-    int threeSumClosest(vector<int>& nums, int target) {
+  public:
+    int threeSumClosest(vector<int> &nums, int target) {
         sort(nums.begin(), nums.end());
 
         int minDistance = INT32_MAX;

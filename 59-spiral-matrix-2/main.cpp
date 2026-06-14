@@ -2,7 +2,7 @@
 using namespace std;
 
 class Solution {
-   private:
+  private:
     // {row, col}
     const vector<pair<int, int>> directions{
         {0, 1},
@@ -11,23 +11,23 @@ class Solution {
         {-1, 0},
     };
 
-    inline pair<int, int> addPair(const pair<int, int>& x, const pair<int, int>& y) {
+    inline pair<int, int> addPair(const pair<int, int> &x,
+                                  const pair<int, int> &y) {
         return {x.first + y.first, x.second + y.second};
     }
 
-    void nextDirection(int& index, pair<int, int>& direction) {
-        if (++index >= 4) index = 0;
+    void nextDirection(int &index, pair<int, int> &direction) {
+        if (++index >= 4)
+            index = 0;
         direction = directions[index];
     }
 
-   public:
+  public:
     vector<vector<int>> generateMatrix(int n) {
         vector<vector<int>> matrix(n + 2, vector<int>(n + 2, 0));
         for (int i = 0; i < n + 2; i++)
-            matrix[i][0] = INT32_MAX,
-            matrix[i][n + 1] = INT32_MAX,
-            matrix[0][i] = INT32_MAX,
-            matrix[n + 1][i] = INT32_MAX;
+            matrix[i][0] = INT32_MAX, matrix[i][n + 1] = INT32_MAX,
+            matrix[0][i] = INT32_MAX, matrix[n + 1][i] = INT32_MAX;
 
         int directionIndex = 0;
         pair<int, int> direction = directions[directionIndex];

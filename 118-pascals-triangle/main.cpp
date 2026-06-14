@@ -2,7 +2,7 @@
 using namespace std;
 
 class Solution {
-   public:
+  public:
     vector<vector<int>> generate(int numRows) {
         vector<vector<int>> result{{1}};
         for (int i = 1; i < numRows; i++) {

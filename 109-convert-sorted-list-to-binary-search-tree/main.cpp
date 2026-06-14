@@ -15,13 +15,15 @@ struct TreeNode {
     TreeNode *right;
     TreeNode() : val(0), left(nullptr), right(nullptr) {}
     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
-    TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+    TreeNode(int x, TreeNode *left, TreeNode *right)
+        : val(x), left(left), right(right) {}
 };
 
 class Solution {
-   public:
+  public:
     TreeNode *sortedListToBST(ListNode *head) {
-        if (!head) return nullptr;
+        if (!head)
+            return nullptr;
 
         vector<int> nums;
 
@@ -40,7 +42,8 @@ class Solution {
         int mid = nums.size() / 2;
         root->val = nums[mid];
 
-        if (nums.size() == 1) return;
+        if (nums.size() == 1)
+            return;
 
         vector<int> leftNums, rightNums;
         copy(nums.begin(), nums.begin() + mid, back_inserter(leftNums));

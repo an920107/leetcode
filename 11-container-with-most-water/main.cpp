@@ -2,8 +2,8 @@
 using namespace std;
 
 class Solution {
-   public:
-    int maxArea(vector<int>& heights) {
+  public:
+    int maxArea(vector<int> &heights) {
         int result = 0;
         int l = 0, r = heights.size() - 1;
 

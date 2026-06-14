@@ -7,7 +7,7 @@ struct ListNode {
 };
 
 class Solution {
-   public:
+  public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
         std::unordered_set<ListNode *> visited_node;
 

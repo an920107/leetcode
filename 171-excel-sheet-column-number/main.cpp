@@ -2,7 +2,7 @@
 using namespace std;
 
 class Solution {
-   public:
+  public:
     int titleToNumber(string columnTitle) {
         reverse(columnTitle.begin(), columnTitle.end());
 

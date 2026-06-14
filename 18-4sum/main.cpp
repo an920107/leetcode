@@ -2,8 +2,8 @@
 using namespace std;
 
 class Solution {
-   public:
-    vector<vector<int>> fourSum(vector<int>& nums, int target) {
+  public:
+    vector<vector<int>> fourSum(vector<int> &nums, int target) {
         set<vector<int>> resultSet;
 
         sort(nums.begin(), nums.end());
@@ -13,7 +13,8 @@ class Solution {
                 int l = j + 1, r = nums.size() - 1;
 
                 while (l < r) {
-                    long long sum = (long long)nums[i] + nums[j] + nums[l] + nums[r];
+                    long long sum =
+                        (long long)nums[i] + nums[j] + nums[l] + nums[r];
                     if (sum < target) {
                         l++;
                     } else if (sum > target) {
@@ -27,7 +28,7 @@ class Solution {
         }
 
         vector<vector<int>> result;
-        for (auto& e : resultSet) {
+        for (auto &e : resultSet) {
             result.emplace_back(e);
         }
 

@@ -1,7 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-
 struct ListNode {
     int val;
     ListNode *next;
@@ -11,11 +10,11 @@ struct ListNode {
 };
 
 class Solution {
-public:
-    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        ListNode* result = new ListNode{0, nullptr};
-        ListNode* lastNode = nullptr;
-        ListNode* currentNode = result;
+  public:
+    ListNode *addTwoNumbers(ListNode *l1, ListNode *l2) {
+        ListNode *result = new ListNode{0, nullptr};
+        ListNode *lastNode = nullptr;
+        ListNode *currentNode = result;
         int carry = 0;
 
         while (l1 != nullptr || l2 != nullptr) {

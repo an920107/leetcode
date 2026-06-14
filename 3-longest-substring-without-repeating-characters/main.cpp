@@ -2,7 +2,7 @@
 using namespace std;
 
 class Solution {
-public:
+  public:
     int lengthOfLongestSubstring(string s) {
         int maxLen = 0, currentLen = 0;
         queue<int> substr;

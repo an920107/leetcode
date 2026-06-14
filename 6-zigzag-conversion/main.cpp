@@ -2,7 +2,7 @@
 using namespace std;
 
 class Solution {
-   public:
+  public:
     string convert(string s, int rows) {
         if (rows == 1) {
             return s;

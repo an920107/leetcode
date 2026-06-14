@@ -2,7 +2,7 @@
 using namespace std;
 
 class Solution {
-   private:
+  private:
     // {row, col}
     const vector<pair<int, int>> directions{
         {0, 1},
@@ -11,17 +11,19 @@ class Solution {
         {-1, 0},
     };
 
-    inline pair<int, int> addPair(const pair<int, int>& x, const pair<int, int>& y) {
+    inline pair<int, int> addPair(const pair<int, int> &x,
+                                  const pair<int, int> &y) {
         return {x.first + y.first, x.second + y.second};
     }
 
-    void nextDirection(int& index, pair<int, int>& direction) {
-        if (++index >= 4) index = 0;
+    void nextDirection(int &index, pair<int, int> &direction) {
+        if (++index >= 4)
+            index = 0;
         direction = directions[index];
     }
 
-   public:
-    vector<int> spiralOrder(vector<vector<int>>& matrix) {
+  public:
+    vector<int> spiralOrder(vector<vector<int>> &matrix) {
         const int m = matrix.size();
         const int n = matrix[0].size();
 
@@ -45,7 +47,8 @@ class Solution {
                 nextPos = addPair(currentPos, direction);
             }
             visited[currentPos.first][currentPos.second] = true;
-            result.emplace_back(matrix[currentPos.first - 1][currentPos.second - 1]);
+            result.emplace_back(
+                matrix[currentPos.first - 1][currentPos.second - 1]);
             currentPos = nextPos;
         }
 

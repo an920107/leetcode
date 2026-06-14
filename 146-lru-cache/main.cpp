@@ -2,8 +2,8 @@
 using namespace std;
 
 struct Node {
-    Node* prev;
-    Node* next;
+    Node *prev;
+    Node *next;
     int key;
     int val;
 
@@ -11,30 +11,30 @@ struct Node {
 };
 
 class LRUCache {
-   private:
+  private:
     int capacity;
-    Node* head;
-    Node* tail;
-    unordered_map<int, Node*> table;
+    Node *head;
+    Node *tail;
+    unordered_map<int, Node *> table;
 
-    void removeNode(Node* node) {
+    void removeNode(Node *node) {
         node->prev->next = node->next;
         node->next->prev = node->prev;
     }
 
-    void insertToTail(Node* node) {
+    void insertToTail(Node *node) {
         node->prev = tail->prev;
         node->next = tail;
         tail->prev->next = node;
         tail->prev = node;
     }
 
-    void moveToTail(Node* node) {
+    void moveToTail(Node *node) {
         removeNode(node);
         insertToTail(node);
     }
 
-   public:
+  public:
     LRUCache(int capacity) {
         this->capacity = capacity;
         head = new Node(0, 0);
@@ -44,9 +44,9 @@ class LRUCache {
     }
 
     ~LRUCache() {
-        Node* current = head;
+        Node *current = head;
         while (current != nullptr) {
-            Node* next = current->next;
+            Node *next = current->next;
             delete current;
             current = next;
         }
@@ -58,7 +58,7 @@ class LRUCache {
             return -1;
         }
 
-        Node* node = it->second;
+        Node *node = it->second;
         moveToTail(node);
         return node->val;
     }
@@ -66,18 +66,18 @@ class LRUCache {
     void put(int key, int value) {
         auto it = table.find(key);
         if (it != table.end()) {
-            Node* node = it->second;
+            Node *node = it->second;
             node->val = value;
             moveToTail(node);
             return;
         }
 
-        Node* node = new Node(key, value);
+        Node *node = new Node(key, value);
         table[key] = node;
         insertToTail(node);
 
         if ((int)table.size() > capacity) {
-            Node* lru = head->next;
+            Node *lru = head->next;
             removeNode(lru);
             table.erase(lru->key);
             delete lru;

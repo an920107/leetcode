@@ -2,9 +2,10 @@
 using namespace std;
 
 class Solution {
-   public:
+  public:
     int mySqrt(int x) {
-        if (x == 1) return 1;
+        if (x == 1)
+            return 1;
 
         long long l = 0, r = x;
 

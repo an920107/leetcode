@@ -2,13 +2,14 @@
 using namespace std;
 
 class Solution {
-   public:
-    int maxSubArray(vector<int>& nums) {
+  public:
+    int maxSubArray(vector<int> &nums) {
         return maxSubArray(nums, 0, nums.size() - 1);
     }
 
-    int maxSubArray(vector<int>& nums, int leftIndex, int rightIndex) {
-        if (leftIndex > rightIndex) return INT32_MIN;
+    int maxSubArray(vector<int> &nums, int leftIndex, int rightIndex) {
+        if (leftIndex > rightIndex)
+            return INT32_MIN;
 
         int mid = (leftIndex + rightIndex) / 2;
         int leftMaxSum = 0, rightMaxSum = 0;

@@ -2,7 +2,7 @@
 using namespace std;
 
 class Solution {
-   public:
+  public:
     string addBinary(string a, string b) {
         reverse(a.begin(), a.end());
         reverse(b.begin(), b.end());
@@ -21,7 +21,8 @@ class Solution {
             result.push_back(dc + '0');
         }
 
-        if (carry) result.push_back(carry + '0');
+        if (carry)
+            result.push_back(carry + '0');
 
         reverse(result.begin(), result.end());
 

@@ -2,10 +2,12 @@
 using namespace std;
 
 class Solution {
-   public:
+  public:
     double myPow(double x, long long n) {
-        if (x == 0) return 0;
-        if (n == 0) return 1;
+        if (x == 0)
+            return 0;
+        if (n == 0)
+            return 1;
 
         bool isExpNeg = n < 0;
         n = abs(n);
@@ -20,11 +22,13 @@ class Solution {
 
         double result = 1.0;
         for (int i = 0; i < logn + 1; i++) {
-            if (n & 1) result *= expTable[i];
+            if (n & 1)
+                result *= expTable[i];
             n >>= 1;
         }
 
-        if (isExpNeg) result = 1.0 / result;
+        if (isExpNeg)
+            result = 1.0 / result;
 
         return result;
     }

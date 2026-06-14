@@ -2,11 +2,11 @@
 using namespace std;
 
 class Solution {
-   public:
-    vector<vector<string>> groupAnagrams(vector<string>& strs) {
+  public:
+    vector<vector<string>> groupAnagrams(vector<string> &strs) {
         unordered_map<string, vector<string>> anagrams;
 
-        for (auto& str : strs) {
+        for (auto &str : strs) {
             string originalStr(str);
             sort(str.begin(), str.end());
 
@@ -19,7 +19,7 @@ class Solution {
         }
 
         vector<vector<string>> result;
-        for (auto& [key, value] : anagrams) {
+        for (auto &[key, value] : anagrams) {
             result.emplace_back(value);
         }
 

@@ -4,28 +4,30 @@ using namespace std;
 typedef long long ll;
 
 class Node {
-   public:
-    Node* prev;
-    Node* next;
+  public:
+    Node *prev;
+    Node *next;
     ll val;
     int index;
 
-    Node(Node* prev, Node* next, ll val, int index) : prev(prev), next(next), val(val), index(index) {}
+    Node(Node *prev, Node *next, ll val, int index)
+        : prev(prev), next(next), val(val), index(index) {}
     ~Node() {}
 };
 
 class PqParams {
-   public:
+  public:
     ll sum;
     int index;
-    Node* node;
+    Node *node;
 
-    PqParams(ll sum, int index, Node* node) : sum(sum), index(index), node(node) {}
+    PqParams(ll sum, int index, Node *node)
+        : sum(sum), index(index), node(node) {}
     ~PqParams() {}
 };
 
 class Compare {
-   public:
+  public:
     bool operator()(PqParams a, PqParams b) {
         if (a.sum < b.sum) {
             return false;
@@ -37,18 +39,18 @@ class Compare {
 };
 
 class Solution {
-   public:
-    int minimumPairRemoval(vector<int>& nums) {
-        unordered_set<Node*> descent_nodes;
+  public:
+    int minimumPairRemoval(vector<int> &nums) {
+        unordered_set<Node *> descent_nodes;
         priority_queue<PqParams, vector<PqParams>, Compare> sum_min_heap;
-        unordered_set<Node*> to_delete;
+        unordered_set<Node *> to_delete;
 
-        Node* head = new Node(nullptr, nullptr, nums[0], 0);
-        Node* current = head;
+        Node *head = new Node(nullptr, nullptr, nums[0], 0);
+        Node *current = head;
 
         for (int i = 1; i < nums.size(); i++) {
             ll sum = nums[i - 1] + nums[i];
-            Node* new_node = new Node(current, nullptr, nums[i], i);
+            Node *new_node = new Node(current, nullptr, nums[i], i);
             current->next = new_node;
             new_node->prev = current;
             if (nums[i - 1] > nums[i]) {
@@ -76,7 +78,7 @@ class Solution {
             descent_nodes.erase(node->next);
             descent_nodes.erase(node->prev);
 
-            Node* next = node->next;
+            Node *next = node->next;
             to_delete.insert(next);
             if (next != nullptr) {
                 node->next = next->next;
@@ -107,7 +109,7 @@ class Solution {
     }
 };
 
-int main(int argc, char const* argv[]) {
+int main(int argc, char const *argv[]) {
     Solution s;
     vector<int> v{-2, 1, 2, -1, -1, -2, -2, -1, -1, 1, 1};
     s.minimumPairRemoval(v);

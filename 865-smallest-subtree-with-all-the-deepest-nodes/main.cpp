@@ -7,21 +7,23 @@ using namespace std;
 
 struct TreeNode {
     int val;
-    TreeNode* left;
-    TreeNode* right;
+    TreeNode *left;
+    TreeNode *right;
     TreeNode() : val(0), left(nullptr), right(nullptr) {}
     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
-    TreeNode(int x, TreeNode* left, TreeNode* right) : val(x), left(left), right(right) {}
+    TreeNode(int x, TreeNode *left, TreeNode *right)
+        : val(x), left(left), right(right) {}
 };
 
 class Solution {
-   public:
-    TreeNode* subtreeWithAllDeepest(TreeNode* root) {
+  public:
+    TreeNode *subtreeWithAllDeepest(TreeNode *root) {
         // node, parent, depth
-        queue<tuple<TreeNode*, TreeNode*, int>> bfs_queue({{root, nullptr, 0}});
+        queue<tuple<TreeNode *, TreeNode *, int>> bfs_queue(
+            {{root, nullptr, 0}});
         // node, parent
-        unordered_map<TreeNode*, TreeNode*> parent_map;
-        unordered_set<TreeNode*> nodes;
+        unordered_map<TreeNode *, TreeNode *> parent_map;
+        unordered_set<TreeNode *> nodes;
 
         int depth = 0;
 
@@ -45,7 +47,7 @@ class Solution {
         }
 
         while (nodes.size() > 1) {
-            for (auto node : vector<TreeNode*>(nodes.begin(), nodes.end())) {
+            for (auto node : vector<TreeNode *>(nodes.begin(), nodes.end())) {
                 nodes.erase(node);
                 nodes.insert(parent_map[node]);
             }

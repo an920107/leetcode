@@ -2,7 +2,7 @@
 using namespace std;
 
 class Solution {
-   public:
+  public:
     int strStr(string haystack, string needle) {
         return haystack.find(needle.c_str());
     }

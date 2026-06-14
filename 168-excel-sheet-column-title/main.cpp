@@ -2,7 +2,7 @@
 using namespace std;
 
 class Solution {
-   public:
+  public:
     string convertToTitle(int columnNumber) {
         string result;
 
