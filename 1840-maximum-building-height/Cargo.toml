@@ -1,0 +1,6 @@
+[package]
+name = "maximum-building-height"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
