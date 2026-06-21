@@ -293,7 +293,7 @@ members = [
   "3771-total-score-of-dungeon-runs",
   "3783-mirror-distance-of-an-integer",
   "3794-reverse-string-prefix",
-  "3838-weighted-word-mapping", "3614-process-string-with-special-operations-ii",
+  "3838-weighted-word-mapping", "3614-process-string-with-special-operations-ii", "1344-angle-between-hands-of-a-clock", "1732-find-the-highest-altitude",
 ]
 
 [workspace.package]

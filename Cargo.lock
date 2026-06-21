@@ -3,6 +3,10 @@
 version = 4
 
 [[package]]
+name = "angle-between-hands-of-a-clock"
+version = "0.1.0"
+
+[[package]]
 name = "block-placement-queries"
 version = "0.1.0"
 
@@ -60,6 +64,10 @@ version = "0.1.0"
 
 [[package]]
 name = "find-minimum-in-rotated-sorted-array-ii"
+version = "0.1.0"
+
+[[package]]
+name = "find-the-highest-altitude"
 version = "0.1.0"
 
 [[package]]
