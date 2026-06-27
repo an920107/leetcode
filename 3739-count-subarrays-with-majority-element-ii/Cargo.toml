@@ -1,0 +1,6 @@
+[package]
+name = "count-subarrays-with-majority-element-ii"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

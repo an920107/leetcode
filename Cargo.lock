@@ -29,6 +29,10 @@ name = "count-subarrays-with-majority-element-i"
 version = "0.1.0"
 
 [[package]]
+name = "count-subarrays-with-majority-element-ii"
+version = "0.1.0"
+
+[[package]]
 name = "count-the-number-of-special-characters-i"
 version = "0.1.0"
 
