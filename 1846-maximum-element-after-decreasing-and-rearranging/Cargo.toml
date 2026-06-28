@@ -1,0 +1,6 @@
+[package]
+name = "maximum-element-after-decreasing-and-rearranging"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

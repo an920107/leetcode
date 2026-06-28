@@ -142,6 +142,10 @@ name = "maximum-building-height"
 version = "0.1.0"
 
 [[package]]
+name = "maximum-element-after-decreasing-and-rearranging"
+version = "0.1.0"
+
+[[package]]
 name = "maximum-ice-cream-bars"
 version = "0.1.0"
 
