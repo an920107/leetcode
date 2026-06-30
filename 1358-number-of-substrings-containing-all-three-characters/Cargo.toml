@@ -1,0 +1,6 @@
+[package]
+name = "number-of-substrings-containing-all-three-characters"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
