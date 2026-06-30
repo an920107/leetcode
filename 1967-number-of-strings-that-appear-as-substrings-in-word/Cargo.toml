@@ -1,0 +1,6 @@
+[package]
+name = "number-of-strings-that-appear-as-substrings-in-word"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

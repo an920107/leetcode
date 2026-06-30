@@ -298,7 +298,7 @@ members = [
   "3771-total-score-of-dungeon-runs",
   "3783-mirror-distance-of-an-integer",
   "3794-reverse-string-prefix",
-  "3838-weighted-word-mapping", "1189-maximum-number-of-balloons", "3699-number-of-zigzag-arrays-i", "3737-count-subarrays-with-majority-element-i", "3739-count-subarrays-with-majority-element-ii", "3020-find-the-maximum-number-of-elements-in-subset", "1846-maximum-element-after-decreasing-and-rearranging",
+  "3838-weighted-word-mapping", "1189-maximum-number-of-balloons", "3699-number-of-zigzag-arrays-i", "3737-count-subarrays-with-majority-element-i", "3739-count-subarrays-with-majority-element-ii", "3020-find-the-maximum-number-of-elements-in-subset", "1846-maximum-element-after-decreasing-and-rearranging", "1967-number-of-strings-that-appear-as-substrings-in-word",
 ]
 
 [workspace.package]
