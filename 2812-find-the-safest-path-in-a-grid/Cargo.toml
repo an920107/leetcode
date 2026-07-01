@@ -1,0 +1,6 @@
+[package]
+name = "find-the-safest-path-in-a-grid"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
