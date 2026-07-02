@@ -307,7 +307,7 @@ members = [
   "3771-total-score-of-dungeon-runs",
   "3783-mirror-distance-of-an-integer",
   "3794-reverse-string-prefix",
-  "3838-weighted-word-mapping",
+  "3838-weighted-word-mapping", "1607-find-a-safe-walk-through-a-grid",
 ]
 
 [workspace.package]

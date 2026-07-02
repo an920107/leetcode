@@ -1,0 +1,6 @@
+[package]
+name = "find-a-safe-walk-through-a-grid"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
