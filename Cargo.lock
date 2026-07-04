@@ -190,6 +190,10 @@ name = "minimum-moves-to-make-array-complementary"
 version = "0.1.0"
 
 [[package]]
+name = "network-recovery-pathways"
+version = "0.1.0"
+
+[[package]]
 name = "number-of-strings-that-appear-as-substrings-in-word"
 version = "0.1.0"
 

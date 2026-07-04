@@ -1,0 +1,6 @@
+[package]
+name = "network-recovery-pathways"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
