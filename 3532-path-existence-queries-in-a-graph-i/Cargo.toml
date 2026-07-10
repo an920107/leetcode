@@ -1,0 +1,6 @@
+[package]
+name = "path-existence-queries-in-a-graph-i"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

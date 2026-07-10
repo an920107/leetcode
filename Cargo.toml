@@ -114,6 +114,7 @@ members = [
   "1582-special-positions-in-a-binary-matrix",
   "1590-make-sum-divisible-by-p",
   "1594-maximum-non-negative-product-in-a-matrix",
+  "1607-find-a-safe-walk-through-a-grid",
   "1622-fancy-sequence",
   "1653-minimum-deletions-to-make-string-balanced",
   "1672-richest-customer-wealth",
@@ -257,6 +258,7 @@ members = [
   "3512-minimum-operations-to-make-array-sum-divisible-by-k",
   "3516-find-closest-person",
   "3531-count-covered-buildings",
+  "3532-path-existence-queries-in-a-graph-i",
   "3541-find-most-frequent-vowel-and-consonant",
   "3542-minimum-operation-to-convert-all-element-to-zero",
   "3546-equal-sum-grid-partition-i",
@@ -270,6 +272,7 @@ members = [
   "3606-coupon-code-validator",
   "3612-process-string-with-special-operations-i",
   "3614-process-string-with-special-operations-ii",
+  "3620-network-recovery-pathways",
   "3623-count-number-of-trapezoids-i",
   "3625-count-number-of-trapezoids-ii",
   "3629-minimum-jumps-to-reach-end-via-prime-teleportation",
@@ -307,7 +310,7 @@ members = [
   "3771-total-score-of-dungeon-runs",
   "3783-mirror-distance-of-an-integer",
   "3794-reverse-string-prefix",
-  "3838-weighted-word-mapping", "1607-find-a-safe-walk-through-a-grid", "3620-network-recovery-pathways",
+  "3838-weighted-word-mapping",
 ]
 
 [workspace.package]
