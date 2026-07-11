@@ -25,6 +25,10 @@ name = "check-if-array-is-sorted-and-rotated"
 version = "0.1.0"
 
 [[package]]
+name = "common-lib"
+version = "0.1.0"
+
+[[package]]
 name = "count-subarrays-with-majority-element-i"
 version = "0.1.0"
 
