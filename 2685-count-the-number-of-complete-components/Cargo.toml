@@ -1,0 +1,6 @@
+[package]
+name = "count-the-number-of-complete-components"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
