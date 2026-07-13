@@ -1,0 +1,6 @@
+[package]
+name = "rank-transform-of-an-array"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
