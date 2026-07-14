@@ -1,0 +1,6 @@
+[package]
+name = "find-the-number-of-subsequences-with-equal-gcd"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

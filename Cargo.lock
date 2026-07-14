@@ -99,6 +99,10 @@ name = "find-the-maximum-number-of-elements-in-subset"
 version = "0.1.0"
 
 [[package]]
+name = "find-the-number-of-subsequences-with-equal-gcd"
+version = "0.1.0"
+
+[[package]]
 name = "find-the-safest-path-in-a-grid"
 version = "0.1.0"
 
