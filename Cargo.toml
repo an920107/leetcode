@@ -312,7 +312,7 @@ members = [
   "3771-total-score-of-dungeon-runs",
   "3783-mirror-distance-of-an-integer",
   "3794-reverse-string-prefix",
-  "3838-weighted-word-mapping", "0-common-lib", "1331-rank-transform-of-an-array",
+  "3838-weighted-word-mapping", "0-common-lib", "1331-rank-transform-of-an-array", "1291-sequential-digits",
 ]
 
 [workspace.package]
