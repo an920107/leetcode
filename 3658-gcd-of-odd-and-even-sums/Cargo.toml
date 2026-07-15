@@ -1,0 +1,6 @@
+[package]
+name = "gcd-of-odd-and-even-sums"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

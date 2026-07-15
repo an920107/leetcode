@@ -1,6 +1,7 @@
 [workspace]
 resolver = "3"
 members = [
+  "0-common-lib",
   "4-median-of-two-sorted-arrays",
   "10-regular-expression-matching",
   "23-merge-k-sorted-lists",
@@ -85,10 +86,12 @@ members = [
   "1262-greatest-sum-divisible-by-three",
   "1266-minimum-time-visiting-all-points",
   "1277-count-square-submatrices-with-all-ones",
+  "1291-sequential-digits",
   "1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold",
   "1306-jump-game-iii",
   "1320-minimum-distance-to-type-a-word-using-two-fingers",
   "1323-maximum-69-number",
+  "1331-rank-transform-of-an-array",
   "1340-jump-game-v",
   "1344-angle-between-hands-of-a-clock",
   "1351-count-negative-numbers-in-a-sorted-matrix",
@@ -243,6 +246,7 @@ members = [
   "3300-minimum-element-after-replacement-with-digit-sum",
   "3314-construct-the-minimum-bitwise-array-i",
   "3315-construct-the-minimum-bitwise-array-ii",
+  "3336-find-the-number-of-subsequences-with-equal-gcd",
   "3379-transformed-array",
   "3381-maximum-subarray-sum-with-length-divisible-by-k",
   "3408-design-task-manager",
@@ -289,6 +293,7 @@ members = [
   "3652-best-time-to-buy-and-sell-stock-using-strategy",
   "3653-xor-after-range-multiplication-queries-i",
   "3655-xor-after-range-multiplication-queries-ii",
+  "3658-gcd-of-odd-and-even-sums",
   "3660-jump-game-ix",
   "3661-maximum-walls-destroyed-by-robots",
   "3666-minimum-operations-to-equalize-binary-string",
@@ -312,7 +317,7 @@ members = [
   "3771-total-score-of-dungeon-runs",
   "3783-mirror-distance-of-an-integer",
   "3794-reverse-string-prefix",
-  "3838-weighted-word-mapping", "0-common-lib", "1331-rank-transform-of-an-array", "1291-sequential-digits", "3336-find-the-number-of-subsequences-with-equal-gcd",
+  "3838-weighted-word-mapping",
 ]
 
 [workspace.package]
@@ -320,5 +325,6 @@ version = "0.1.0"
 edition = "2024"
 
 [workspace.dependencies]
-itertools = "0.14.0"
-rand = "0.9.2"
+itertools = "0.14"
+rand = "0.8"
+regex = "1"
