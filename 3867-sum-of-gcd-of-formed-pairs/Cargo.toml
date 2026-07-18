@@ -1,0 +1,6 @@
+[package]
+name = "sum-of-gcd-of-formed-pairs"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
