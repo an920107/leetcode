@@ -79,6 +79,10 @@ name = "find-a-safe-walk-through-a-grid"
 version = "0.1.0"
 
 [[package]]
+name = "find-greatest-common-divisor-of-array"
+version = "0.1.0"
+
+[[package]]
 name = "find-minimum-in-rotated-sorted-array"
 version = "0.1.0"
 

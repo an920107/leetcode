@@ -160,6 +160,7 @@ members = [
   "1967-number-of-strings-that-appear-as-substrings-in-word",
   "1970-last-day-where-you-can-still-cross",
   "1975-maximum-matrix-sum",
+  "1979-find-greatest-common-divisor-of-array",
   "1980-find-unique-binary-string",
   "1984-minimum-difference-between-highest-and-lowest-of-k-scores",
   "2001-number-of-pairs-of-interchangeable-rectangles",
@@ -317,7 +318,8 @@ members = [
   "3771-total-score-of-dungeon-runs",
   "3783-mirror-distance-of-an-integer",
   "3794-reverse-string-prefix",
-  "3838-weighted-word-mapping", "3867-sum-of-gcd-of-formed-pairs",
+  "3838-weighted-word-mapping",
+  "3867-sum-of-gcd-of-formed-pairs",
 ]
 
 [workspace.package]
