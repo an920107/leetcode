@@ -1,0 +1,6 @@
+[package]
+name = "smallest-subsequence-of-distinct-characters"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

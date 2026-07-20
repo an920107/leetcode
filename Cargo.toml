@@ -319,7 +319,7 @@ members = [
   "3783-mirror-distance-of-an-integer",
   "3794-reverse-string-prefix",
   "3838-weighted-word-mapping",
-  "3867-sum-of-gcd-of-formed-pairs",
+  "3867-sum-of-gcd-of-formed-pairs", "1081-smallest-subsequence-of-distinct-characters",
 ]
 
 [workspace.package]
