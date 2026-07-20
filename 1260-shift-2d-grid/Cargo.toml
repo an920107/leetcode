@@ -1,0 +1,6 @@
+[package]
+name = "shift-2d-grid"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

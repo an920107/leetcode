@@ -1371,6 +1371,10 @@ name = "sequential-digits"
 version = "0.1.0"
 
 [[package]]
+name = "shift-2d-grid"
+version = "0.1.0"
+
+[[package]]
 name = "smallest-subsequence-of-distinct-characters"
 version = "0.1.0"
 
