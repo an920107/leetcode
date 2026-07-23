@@ -225,6 +225,10 @@ name = "number-of-substrings-containing-all-three-characters"
 version = "0.1.0"
 
 [[package]]
+name = "number-of-unique-xor-triplets-i"
+version = "0.1.0"
+
+[[package]]
 name = "number-of-ways-to-assign-edge-weights-i"
 version = "0.1.0"
 
