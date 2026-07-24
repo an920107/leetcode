@@ -1,0 +1,6 @@
+[package]
+name = "number-of-unique-xor-triplets-ii"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
