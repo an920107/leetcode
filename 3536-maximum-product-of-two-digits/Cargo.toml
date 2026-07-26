@@ -1,0 +1,6 @@
+[package]
+name = "maximum-product-of-two-digits"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

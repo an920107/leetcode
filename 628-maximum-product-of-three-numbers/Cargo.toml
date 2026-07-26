@@ -1,0 +1,6 @@
+[package]
+name = "maximum-product-of-three-numbers"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
