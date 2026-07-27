@@ -1,0 +1,6 @@
+[package]
+name = "maximum-product-of-two-elements-in-an-array"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

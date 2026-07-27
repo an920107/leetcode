@@ -197,6 +197,10 @@ name = "maximum-product-of-two-digits"
 version = "0.1.0"
 
 [[package]]
+name = "maximum-product-of-two-elements-in-an-array"
+version = "0.1.0"
+
+[[package]]
 name = "maximum-total-subarray-value-i"
 version = "0.1.0"
 
