@@ -1,0 +1,6 @@
+[package]
+name = "smallest-palindromic-rearrangement-i"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
