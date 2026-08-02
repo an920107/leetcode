@@ -229,6 +229,8 @@ members = [
   "3005-count-elements-with-maximum-frequency",
   "3010-divide-an-array-into-subarrays-with-minimum-cost-i",
   "3013-divide-an-array-into-subarrays-with-minimum-cost-ii",
+  "3014-minimum-number-of-pushes-to-type-word-i",
+  "3015-minimum-number-of-pushes-to-type-word-ii",
   "3020-find-the-maximum-number-of-elements-in-subset",
   "3043-find-the-length-of-the-longest-common-prefix",
   "3047-find-the-largest-area-of-square-inside-two-rectangles",
@@ -329,7 +331,7 @@ members = [
   "3783-mirror-distance-of-an-integer",
   "3794-reverse-string-prefix",
   "3838-weighted-word-mapping",
-  "3867-sum-of-gcd-of-formed-pairs",
+  "3867-sum-of-gcd-of-formed-pairs", "877-stone-game",
 ]
 
 [workspace.package]

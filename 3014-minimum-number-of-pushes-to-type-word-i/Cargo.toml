@@ -1,0 +1,6 @@
+[package]
+name = "minimum-number-of-pushes-to-type-word-i"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
