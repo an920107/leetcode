@@ -1,0 +1,6 @@
+[package]
+name = "predict-the-winner"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
