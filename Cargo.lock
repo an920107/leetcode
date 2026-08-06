@@ -91,6 +91,10 @@ name = "find-minimum-in-rotated-sorted-array-ii"
 version = "0.1.0"
 
 [[package]]
+name = "find-missing-elements"
+version = "0.1.0"
+
+[[package]]
 name = "find-the-highest-altitude"
 version = "0.1.0"
 

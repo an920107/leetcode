@@ -331,7 +331,7 @@ members = [
   "3783-mirror-distance-of-an-integer",
   "3794-reverse-string-prefix",
   "3838-weighted-word-mapping",
-  "3867-sum-of-gcd-of-formed-pairs", "877-stone-game", "486-predict-the-winner",
+  "3867-sum-of-gcd-of-formed-pairs", "877-stone-game", "486-predict-the-winner", "3731-find-missing-elements",
 ]
 
 [workspace.package]
