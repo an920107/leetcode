@@ -1415,6 +1415,10 @@ name = "shift-2d-grid"
 version = "0.1.0"
 
 [[package]]
+name = "smallest-divisible-digit-product-i"
+version = "0.1.0"
+
+[[package]]
 name = "smallest-palindromic-rearrangement-i"
 version = "0.1.0"
 
