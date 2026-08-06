@@ -1,0 +1,6 @@
+[package]
+name = "remove-methods-from-project"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
