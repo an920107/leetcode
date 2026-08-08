@@ -106,6 +106,10 @@ name = "find-the-length-of-the-longest-common-prefix"
 version = "0.1.0"
 
 [[package]]
+name = "find-the-lexicographically-smallest-valid-sequence"
+version = "0.1.0"
+
+[[package]]
 name = "find-the-maximum-number-of-elements-in-subset"
 version = "0.1.0"
 
