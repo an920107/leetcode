@@ -1453,6 +1453,10 @@ name = "stone-game"
 version = "0.1.0"
 
 [[package]]
+name = "stone-game-ii"
+version = "0.1.0"
+
+[[package]]
 name = "sum-of-gcd-of-formed-pairs"
 version = "0.1.0"
 
