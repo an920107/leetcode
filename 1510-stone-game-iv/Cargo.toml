@@ -1,0 +1,6 @@
+[package]
+name = "stone-game-iv"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
