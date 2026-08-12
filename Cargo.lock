@@ -1437,6 +1437,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "smallest-missing-integer-greater-than-sequential-prefix-sum"
+version = "0.1.0"
+
+[[package]]
 name = "smallest-palindromic-rearrangement-i"
 version = "0.1.0"
 

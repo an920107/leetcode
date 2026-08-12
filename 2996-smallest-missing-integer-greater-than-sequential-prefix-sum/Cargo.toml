@@ -1,0 +1,6 @@
+[package]
+name = "smallest-missing-integer-greater-than-sequential-prefix-sum"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
