@@ -1,0 +1,6 @@
+[package]
+name = "length-of-longest-subarray-with-at-most-k-frequency"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
