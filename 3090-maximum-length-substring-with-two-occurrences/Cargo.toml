@@ -1,0 +1,6 @@
+[package]
+name = "maximum-length-substring-with-two-occurrences"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
