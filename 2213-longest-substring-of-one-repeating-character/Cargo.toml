@@ -1,0 +1,6 @@
+[package]
+name = "longest-substring-of-one-repeating-character"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
