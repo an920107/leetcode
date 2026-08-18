@@ -102,6 +102,10 @@ name = "find-the-highest-altitude"
 version = "0.1.0"
 
 [[package]]
+name = "find-the-largest-almost-missing-integer"
+version = "0.1.0"
+
+[[package]]
 name = "find-the-length-of-the-longest-common-prefix"
 version = "0.1.0"
 
