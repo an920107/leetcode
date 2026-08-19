@@ -1,0 +1,6 @@
+[package]
+name = "cinema-seat-allocation"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
