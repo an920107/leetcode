@@ -1,0 +1,6 @@
+[package]
+name = "kth-smallest-amount-with-single-denomination-combination"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
