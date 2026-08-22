@@ -1,0 +1,6 @@
+[package]
+name = "check-divisibility-by-digit-sum-and-product"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
