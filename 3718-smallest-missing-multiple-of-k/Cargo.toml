@@ -1,0 +1,6 @@
+[package]
+name = "smallest-missing-multiple-of-k"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
