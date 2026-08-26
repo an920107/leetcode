@@ -1,0 +1,6 @@
+[package]
+name = "shortest-and-lexicographically-smallest-beautiful-string"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
