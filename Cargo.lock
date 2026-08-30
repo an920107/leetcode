@@ -190,6 +190,10 @@ name = "length-of-longest-subarray-with-at-most-k-frequency"
 version = "0.1.0"
 
 [[package]]
+name = "lexicographically-smallest-palindromic-permutation-greater-than-target"
+version = "0.1.0"
+
+[[package]]
 name = "lexicographically-smallest-permutation-greater-than-target"
 version = "0.1.0"
 
