@@ -1,0 +1,6 @@
+[package]
+name = "minimum-moves-to-clean-the-classroom"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
