@@ -1454,6 +1454,10 @@ name = "remove-methods-from-project"
 version = "0.1.0"
 
 [[package]]
+name = "removing-minimum-and-maximum-from-array"
+version = "0.1.0"
+
+[[package]]
 name = "rotating-the-box"
 version = "0.1.0"
 

@@ -1,0 +1,6 @@
+[package]
+name = "removing-minimum-and-maximum-from-array"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
