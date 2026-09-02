@@ -55,7 +55,7 @@ impl Solution {
         ans.unwrap_or(-1)
     }
 
-    fn recursion(
+    fn _recursion(
         grid: &Vec<Vec<i32>>,
         memo: &mut HashMap<(usize, usize, i32), Option<i32>>,
         pos: (usize, usize),
@@ -78,7 +78,7 @@ impl Solution {
 
         let right_pos = (pos.0, pos.1 + 1);
         let right = if right_pos.1 < n {
-            Self::recursion(
+            Self::_recursion(
                 grid,
                 memo,
                 right_pos,
@@ -90,7 +90,7 @@ impl Solution {
 
         let down_pos = (pos.0 + 1, pos.1);
         let down = if down_pos.0 < m {
-            Self::recursion(
+            Self::_recursion(
                 grid,
                 memo,
                 down_pos,

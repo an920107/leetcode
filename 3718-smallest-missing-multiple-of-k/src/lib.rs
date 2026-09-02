@@ -1,6 +1,6 @@
 pub struct Solution;
 
-use std::collections::{HashSet, VecDeque};
+use std::collections::HashSet;
 
 impl Solution {
     pub fn missing_multiple(nums: Vec<i32>, k: i32) -> i32 {
