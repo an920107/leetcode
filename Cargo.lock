@@ -1517,6 +1517,14 @@ name = "smallest-palindromic-rearrangement-ii"
 version = "0.1.0"
 
 [[package]]
+name = "smallest-stable-index-i"
+version = "0.1.0"
+
+[[package]]
+name = "smallest-stable-index-ii"
+version = "0.1.0"
+
+[[package]]
 name = "smallest-subsequence-of-distinct-characters"
 version = "0.1.0"
 

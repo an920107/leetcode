@@ -1,0 +1,6 @@
+[package]
+name = "smallest-stable-index-i"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
