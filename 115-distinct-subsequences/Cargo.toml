@@ -1,0 +1,6 @@
+[package]
+name = "distinct-subsequences"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
