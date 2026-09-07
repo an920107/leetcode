@@ -84,6 +84,10 @@ name = "distinct-subsequences"
 version = "0.1.0"
 
 [[package]]
+name = "distinct-subsequences-ii"
+version = "0.1.0"
+
+[[package]]
 name = "distribute-elements-into-two-arrays-i"
 version = "0.1.0"
 
