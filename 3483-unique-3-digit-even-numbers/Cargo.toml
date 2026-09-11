@@ -1,0 +1,6 @@
+[package]
+name = "unique-3-digit-even-numbers"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
