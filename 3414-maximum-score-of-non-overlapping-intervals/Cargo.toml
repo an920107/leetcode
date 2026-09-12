@@ -1,0 +1,6 @@
+[package]
+name = "maximum-score-of-non-overlapping-intervals"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
