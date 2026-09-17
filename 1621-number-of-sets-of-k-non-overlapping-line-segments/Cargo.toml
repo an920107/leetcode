@@ -1,0 +1,6 @@
+[package]
+name = "number-of-sets-of-k-non-overlapping-line-segments"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

@@ -1,0 +1,6 @@
+[package]
+name = "image-overlap"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

@@ -177,6 +177,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "image-overlap"
+version = "0.1.0"
+
+[[package]]
 name = "itertools"
 version = "0.14.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -321,6 +325,10 @@ version = "0.1.0"
 
 [[package]]
 name = "network-recovery-pathways"
+version = "0.1.0"
+
+[[package]]
+name = "number-of-sets-of-k-non-overlapping-line-segments"
 version = "0.1.0"
 
 [[package]]
