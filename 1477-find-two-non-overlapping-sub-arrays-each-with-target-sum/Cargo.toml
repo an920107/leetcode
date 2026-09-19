@@ -1,0 +1,6 @@
+[package]
+name = "find-two-non-overlapping-sub-arrays-each-with-target-sum"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

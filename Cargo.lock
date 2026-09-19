@@ -162,6 +162,10 @@ name = "find-the-safest-path-in-a-grid"
 version = "0.1.0"
 
 [[package]]
+name = "find-two-non-overlapping-sub-arrays-each-with-target-sum"
+version = "0.1.0"
+
+[[package]]
 name = "gcd-of-odd-and-even-sums"
 version = "0.1.0"
 
