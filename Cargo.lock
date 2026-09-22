@@ -170,6 +170,10 @@ name = "find-two-non-overlapping-sub-arrays-each-with-target-sum"
 version = "0.1.0"
 
 [[package]]
+name = "find-x-value-of-array-i"
+version = "0.1.0"
+
+[[package]]
 name = "gcd-of-odd-and-even-sums"
 version = "0.1.0"
 
