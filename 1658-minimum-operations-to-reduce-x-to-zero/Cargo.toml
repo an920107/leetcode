@@ -1,0 +1,6 @@
+[package]
+name = "minimum-operations-to-reduce-x-to-zero"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

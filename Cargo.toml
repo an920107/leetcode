@@ -372,7 +372,7 @@ members = [
   "3875-construct-uniform-parity-array-i",
   "3876-construct-uniform-parity-array-ii",
   "3903-smallest-stable-index-i",
-  "3904-smallest-stable-index-ii", "1401-circle-and-rectangle-overlapping", "3498-reverse-degree-of-a-string", "3524-find-x-value-of-array-i",
+  "3904-smallest-stable-index-ii", "1401-circle-and-rectangle-overlapping", "3498-reverse-degree-of-a-string", "3524-find-x-value-of-array-i", "1658-minimum-operations-to-reduce-x-to-zero",
 ]
 
 [workspace.package]
