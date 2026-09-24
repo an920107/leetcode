@@ -1,0 +1,6 @@
+[package]
+name = "smallest-index-with-digit-sum-equal-to-index"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

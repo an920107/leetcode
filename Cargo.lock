@@ -1549,6 +1549,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "smallest-index-with-digit-sum-equal-to-index"
+version = "0.1.0"
+
+[[package]]
 name = "smallest-missing-integer-greater-than-sequential-prefix-sum"
 version = "0.1.0"
 
