@@ -1,0 +1,6 @@
+[package]
+name = "reverse-substrings-between-each-pair-of-parentheses"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

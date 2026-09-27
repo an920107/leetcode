@@ -1514,6 +1514,10 @@ name = "reverse-degree-of-a-string"
 version = "0.1.0"
 
 [[package]]
+name = "reverse-substrings-between-each-pair-of-parentheses"
+version = "0.1.0"
+
+[[package]]
 name = "rotating-the-box"
 version = "0.1.0"
 
