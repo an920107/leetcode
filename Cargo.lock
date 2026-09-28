@@ -280,6 +280,10 @@ name = "maximum-length-substring-with-two-occurrences"
 version = "0.1.0"
 
 [[package]]
+name = "maximum-nesting-depth-of-the-parentheses"
+version = "0.1.0"
+
+[[package]]
 name = "maximum-number-of-balloons"
 version = "0.1.0"
 
