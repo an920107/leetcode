@@ -1,0 +1,6 @@
+[package]
+name = "maximum-nesting-depth-of-two-valid-parentheses-strings"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
