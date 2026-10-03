@@ -260,6 +260,10 @@ name = "longest-substring-of-one-repeating-character"
 version = "0.1.0"
 
 [[package]]
+name = "longest-valid-parentheses"
+version = "0.1.0"
+
+[[package]]
 name = "maximize-active-section-with-trade-i"
 version = "0.1.0"
 

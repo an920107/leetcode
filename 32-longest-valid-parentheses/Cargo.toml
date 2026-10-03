@@ -1,0 +1,6 @@
+[package]
+name = "longest-valid-parentheses"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
