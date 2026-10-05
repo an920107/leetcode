@@ -1538,6 +1538,10 @@ name = "rotating-the-box"
 version = "0.1.0"
 
 [[package]]
+name = "score-of-parentheses"
+version = "0.1.0"
+
+[[package]]
 name = "search-in-rotated-sorted-array"
 version = "0.1.0"
 

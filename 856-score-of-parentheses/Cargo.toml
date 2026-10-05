@@ -1,0 +1,6 @@
+[package]
+name = "score-of-parentheses"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
