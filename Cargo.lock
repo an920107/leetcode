@@ -29,6 +29,10 @@ name = "check-if-array-is-sorted-and-rotated"
 version = "0.1.0"
 
 [[package]]
+name = "check-if-there-is-a-valid-parentheses-string-path"
+version = "0.1.0"
+
+[[package]]
 name = "cinema-seat-allocation"
 version = "0.1.0"
 

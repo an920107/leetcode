@@ -1,0 +1,6 @@
+[package]
+name = "check-if-there-is-a-valid-parentheses-string-path"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
