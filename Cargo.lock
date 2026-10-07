@@ -1526,6 +1526,10 @@ name = "rank-transform-of-an-array"
 version = "0.1.0"
 
 [[package]]
+name = "remove-invalid-parentheses"
+version = "0.1.0"
+
+[[package]]
 name = "remove-methods-from-project"
 version = "0.1.0"
 
