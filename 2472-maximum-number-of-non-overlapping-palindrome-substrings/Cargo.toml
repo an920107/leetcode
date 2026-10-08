@@ -1,0 +1,6 @@
+[package]
+name = "maximum-number-of-non-overlapping-palindrome-substrings"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

@@ -304,6 +304,10 @@ name = "maximum-number-of-jumps-to-reach-the-last-index"
 version = "0.1.0"
 
 [[package]]
+name = "maximum-number-of-non-overlapping-palindrome-substrings"
+version = "0.1.0"
+
+[[package]]
 name = "maximum-product-of-three-numbers"
 version = "0.1.0"
 
