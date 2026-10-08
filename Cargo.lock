@@ -1534,6 +1534,10 @@ name = "remove-methods-from-project"
 version = "0.1.0"
 
 [[package]]
+name = "remove-outermost-parentheses"
+version = "0.1.0"
+
+[[package]]
 name = "removing-minimum-and-maximum-from-array"
 version = "0.1.0"
 

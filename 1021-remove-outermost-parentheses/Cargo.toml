@@ -1,0 +1,6 @@
+[package]
+name = "remove-outermost-parentheses"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
