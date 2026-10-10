@@ -1,0 +1,6 @@
+[package]
+name = "minimum-insertions-to-balance-a-parentheses-string"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

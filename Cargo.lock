@@ -344,6 +344,10 @@ name = "minimum-element-after-replacement-with-digit-sum"
 version = "0.1.0"
 
 [[package]]
+name = "minimum-insertions-to-balance-a-parentheses-string"
+version = "0.1.0"
+
+[[package]]
 name = "minimum-jumps-to-reach-end-via-prime-teleportation"
 version = "0.1.0"
 
