@@ -1,0 +1,6 @@
+[package]
+name = "sum-of-squares-of-special-elements"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
