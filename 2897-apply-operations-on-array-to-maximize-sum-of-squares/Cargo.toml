@@ -1,0 +1,6 @@
+[package]
+name = "apply-operations-on-array-to-maximize-sum-of-squares"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

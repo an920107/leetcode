@@ -7,6 +7,10 @@ name = "angle-between-hands-of-a-clock"
 version = "0.1.0"
 
 [[package]]
+name = "apply-operations-on-array-to-maximize-sum-of-squares"
+version = "0.1.0"
+
+[[package]]
 name = "block-placement-queries"
 version = "0.1.0"
 
@@ -369,6 +373,10 @@ version = "0.1.0"
 
 [[package]]
 name = "minimum-operations-to-reduce-x-to-zero"
+version = "0.1.0"
+
+[[package]]
+name = "minimum-sum-of-squared-difference"
 version = "0.1.0"
 
 [[package]]
