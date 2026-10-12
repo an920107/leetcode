@@ -1,0 +1,6 @@
+[package]
+name = "minimum-sum-of-squared-difference"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
