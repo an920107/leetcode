@@ -1,0 +1,6 @@
+[package]
+name = "maximum-alternating-sum-of-squares"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

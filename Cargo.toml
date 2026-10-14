@@ -391,7 +391,7 @@ members = [
   "3875-construct-uniform-parity-array-i",
   "3876-construct-uniform-parity-array-ii",
   "3903-smallest-stable-index-i",
-  "3904-smallest-stable-index-ii", "2333-minimum-sum-of-squared-difference", "2897-apply-operations-on-array-to-maximize-sum-of-squares", "2778-sum-of-squares-of-special-elements", "22-generate-parentheses", "1096-brace-expansion-ii",
+  "3904-smallest-stable-index-ii", "2333-minimum-sum-of-squared-difference", "2897-apply-operations-on-array-to-maximize-sum-of-squares", "2778-sum-of-squares-of-special-elements", "22-generate-parentheses", "1096-brace-expansion-ii", "3727-maximum-alternating-sum-of-squares",
 ]
 
 [workspace.package]
