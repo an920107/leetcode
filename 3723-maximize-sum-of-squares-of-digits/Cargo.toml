@@ -1,0 +1,6 @@
+[package]
+name = "maximize-sum-of-squares-of-digits"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

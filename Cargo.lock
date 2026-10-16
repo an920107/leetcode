@@ -284,6 +284,10 @@ name = "maximize-active-section-with-trade-i"
 version = "0.1.0"
 
 [[package]]
+name = "maximize-sum-of-squares-of-digits"
+version = "0.1.0"
+
+[[package]]
 name = "maximum-alternating-sum-of-squares"
 version = "0.1.0"
 
