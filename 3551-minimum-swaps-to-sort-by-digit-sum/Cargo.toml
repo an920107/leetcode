@@ -1,0 +1,6 @@
+[package]
+name = "minimum-swaps-to-sort-by-digit-sum"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
