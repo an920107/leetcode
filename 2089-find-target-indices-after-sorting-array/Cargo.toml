@@ -1,0 +1,6 @@
+[package]
+name = "find-target-indices-after-sorting-array"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
