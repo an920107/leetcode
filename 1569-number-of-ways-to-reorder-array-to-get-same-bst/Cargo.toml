@@ -1,0 +1,6 @@
+[package]
+name = "number-of-ways-to-reorder-array-to-get-same-bst"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

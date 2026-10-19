@@ -436,6 +436,10 @@ name = "number-of-ways-to-assign-edge-weights-ii"
 version = "0.1.0"
 
 [[package]]
+name = "number-of-ways-to-reorder-array-to-get-same-bst"
+version = "0.1.0"
+
+[[package]]
 name = "number-of-zigzag-arrays-i"
 version = "0.1.0"
 
