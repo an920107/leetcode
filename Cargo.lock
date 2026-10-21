@@ -1697,6 +1697,10 @@ name = "sum-of-gcd-of-formed-pairs"
 version = "0.1.0"
 
 [[package]]
+name = "sum-of-sortable-integers"
+version = "0.1.0"
+
+[[package]]
 name = "sum-of-squares-of-special-elements"
 version = "0.1.0"
 
