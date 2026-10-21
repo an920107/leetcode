@@ -1,0 +1,6 @@
+[package]
+name = "minimum-operations-to-sort-a-string"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
