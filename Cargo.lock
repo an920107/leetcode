@@ -396,6 +396,10 @@ name = "minimum-operations-to-reduce-x-to-zero"
 version = "0.1.0"
 
 [[package]]
+name = "minimum-operations-to-sort-a-permutation"
+version = "0.1.0"
+
+[[package]]
 name = "minimum-operations-to-sort-a-string"
 version = "0.1.0"
 

@@ -1,0 +1,6 @@
+[package]
+name = "minimum-operations-to-sort-a-permutation"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
