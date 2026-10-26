@@ -1,0 +1,6 @@
+[package]
+name = "number-of-closed-islands"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
