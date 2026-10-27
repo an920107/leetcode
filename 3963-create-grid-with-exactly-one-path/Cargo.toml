@@ -1,0 +1,6 @@
+[package]
+name = "create-grid-with-exactly-one-path"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
