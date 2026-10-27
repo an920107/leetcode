@@ -1,0 +1,6 @@
+[package]
+name = "count-islands-with-total-value-divisible-by-k"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

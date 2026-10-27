@@ -72,6 +72,10 @@ name = "count-days-spent-together"
 version = "0.1.0"
 
 [[package]]
+name = "count-islands-with-total-value-divisible-by-k"
+version = "0.1.0"
+
+[[package]]
 name = "count-nodes-equal-to-average-of-subtree"
 version = "0.1.0"
 
