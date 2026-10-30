@@ -424,6 +424,10 @@ name = "minimum-swaps-to-sort-by-digit-sum"
 version = "0.1.0"
 
 [[package]]
+name = "minimum-xor-path-in-a-grid"
+version = "0.1.0"
+
+[[package]]
 name = "network-recovery-pathways"
 version = "0.1.0"
 
@@ -1643,6 +1647,10 @@ version = "0.1.0"
 
 [[package]]
 name = "shortest-and-lexicographically-smallest-beautiful-string"
+version = "0.1.0"
+
+[[package]]
+name = "shortest-path-with-at-most-k-consecutive-identical-characters"
 version = "0.1.0"
 
 [[package]]
