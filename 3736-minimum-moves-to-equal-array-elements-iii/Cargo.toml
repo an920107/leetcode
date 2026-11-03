@@ -1,0 +1,6 @@
+[package]
+name = "minimum-moves-to-equal-array-elements-iii"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

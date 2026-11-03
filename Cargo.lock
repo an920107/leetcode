@@ -396,6 +396,10 @@ name = "minimum-moves-to-equal-array-elements-ii"
 version = "0.1.0"
 
 [[package]]
+name = "minimum-moves-to-equal-array-elements-iii"
+version = "0.1.0"
+
+[[package]]
 name = "minimum-moves-to-make-array-complementary"
 version = "0.1.0"
 
