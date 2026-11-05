@@ -1,0 +1,6 @@
+[package]
+name = "minimum-operations-to-make-elements-within-k-subarrays-equal"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
