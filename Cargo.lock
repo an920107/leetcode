@@ -170,6 +170,10 @@ name = "find-target-indices-after-sorting-array"
 version = "0.1.0"
 
 [[package]]
+name = "find-the-distance-value-between-two-arrays"
+version = "0.1.0"
+
+[[package]]
 name = "find-the-highest-altitude"
 version = "0.1.0"
 
