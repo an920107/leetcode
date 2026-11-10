@@ -49,6 +49,10 @@ name = "circle-and-rectangle-overlapping"
 version = "0.1.0"
 
 [[package]]
+name = "climbing-stairs-ii"
+version = "0.1.0"
+
+[[package]]
 name = "common-lib"
 version = "0.1.0"
 dependencies = [
