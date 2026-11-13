@@ -84,6 +84,10 @@ name = "count-nodes-equal-to-average-of-subtree"
 version = "0.1.0"
 
 [[package]]
+name = "count-non-decreasing-subarrays-after-k-operations"
+version = "0.1.0"
+
+[[package]]
 name = "count-subarrays-with-majority-element-i"
 version = "0.1.0"
 

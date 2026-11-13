@@ -1,0 +1,6 @@
+[package]
+name = "count-non-decreasing-subarrays-after-k-operations"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
