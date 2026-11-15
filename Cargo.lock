@@ -472,6 +472,10 @@ name = "number-of-strings-that-appear-as-substrings-in-word"
 version = "0.1.0"
 
 [[package]]
+name = "number-of-sub-arrays-with-odd-sum"
+version = "0.1.0"
+
+[[package]]
 name = "number-of-substrings-containing-all-three-characters"
 version = "0.1.0"
 
