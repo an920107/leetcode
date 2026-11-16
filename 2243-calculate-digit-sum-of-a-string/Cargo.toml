@@ -1,0 +1,6 @@
+[package]
+name = "calculate-digit-sum-of-a-string"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
