@@ -424,6 +424,10 @@ name = "minimum-moves-to-make-array-complementary"
 version = "0.1.0"
 
 [[package]]
+name = "minimum-number-of-changes-to-make-binary-string-beautiful"
+version = "0.1.0"
+
+[[package]]
 name = "minimum-number-of-pushes-to-type-word-i"
 version = "0.1.0"
 

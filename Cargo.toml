@@ -419,7 +419,7 @@ members = [
     "3105-longest-strictly-increasing-or-strictly-decreasing-subarray",
     "3420-count-non-decreasing-subarrays-after-k-operations",
     "1524-number-of-sub-arrays-with-odd-sum",
-    "2243-calculate-digit-sum-of-a-string",
+    "2243-calculate-digit-sum-of-a-string", "2914-minimum-number-of-changes-to-make-binary-string-beautiful",
 ]
 
 [workspace.package]

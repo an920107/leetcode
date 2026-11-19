@@ -1,0 +1,6 @@
+[package]
+name = "minimum-number-of-changes-to-make-binary-string-beautiful"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
