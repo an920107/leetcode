@@ -452,6 +452,10 @@ name = "minimum-operations-to-sort-a-string"
 version = "0.1.0"
 
 [[package]]
+name = "minimum-score-by-changing-two-elements"
+version = "0.1.0"
+
+[[package]]
 name = "minimum-sum-of-squared-difference"
 version = "0.1.0"
 
