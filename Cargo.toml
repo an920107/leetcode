@@ -282,6 +282,7 @@ members = [
   "3014-minimum-number-of-pushes-to-type-word-i",
   "3015-minimum-number-of-pushes-to-type-word-ii",
   "3020-find-the-maximum-number-of-elements-in-subset",
+  "3041-maximize-consecutive-elements-in-an-array-after-modification",
   "3043-find-the-length-of-the-longest-common-prefix",
   "3047-find-the-largest-area-of-square-inside-two-rectangles",
   "3069-distribute-elements-into-two-arrays-i",

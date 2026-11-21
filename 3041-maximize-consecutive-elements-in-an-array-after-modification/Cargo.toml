@@ -1,0 +1,6 @@
+[package]
+name = "maximize-consecutive-elements-in-an-array-after-modification"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
