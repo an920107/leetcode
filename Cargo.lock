@@ -33,6 +33,10 @@ name = "check-divisibility-by-digit-sum-and-product"
 version = "0.1.0"
 
 [[package]]
+name = "check-if-all-as-appears-before-all-bs"
+version = "0.1.0"
+
+[[package]]
 name = "check-if-array-is-good"
 version = "0.1.0"
 
