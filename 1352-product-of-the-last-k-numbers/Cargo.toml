@@ -1,0 +1,6 @@
+[package]
+name = "product-of-the-last-k-numbers"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
