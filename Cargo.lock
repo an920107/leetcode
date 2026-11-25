@@ -1611,6 +1611,10 @@ name = "process-string-with-special-operations-ii"
 version = "0.1.0"
 
 [[package]]
+name = "product-of-the-last-k-numbers"
+version = "0.1.0"
+
+[[package]]
 name = "quote"
 version = "1.0.45"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -1750,6 +1754,10 @@ version = "0.1.0"
 
 [[package]]
 name = "smallest-subsequence-of-distinct-characters"
+version = "0.1.0"
+
+[[package]]
+name = "smallest-unique-subarray"
 version = "0.1.0"
 
 [[package]]
