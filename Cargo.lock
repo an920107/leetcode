@@ -1781,6 +1781,10 @@ name = "stone-game-v"
 version = "0.1.0"
 
 [[package]]
+name = "stone-removal-game"
+version = "0.1.0"
+
+[[package]]
 name = "sum-game"
 version = "0.1.0"
 
