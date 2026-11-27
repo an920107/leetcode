@@ -1,0 +1,6 @@
+[package]
+name = "maximum-number-of-items-from-sale-i"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

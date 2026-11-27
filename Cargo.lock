@@ -368,6 +368,10 @@ name = "maximum-number-of-balloons"
 version = "0.1.0"
 
 [[package]]
+name = "maximum-number-of-items-from-sale-i"
+version = "0.1.0"
+
+[[package]]
 name = "maximum-number-of-jumps-to-reach-the-last-index"
 version = "0.1.0"
 
